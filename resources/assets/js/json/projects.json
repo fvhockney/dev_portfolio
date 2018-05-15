@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "image": "/imgs/projects/allegations_abound.png",
+      "title": "Allegations Abound",
+      "descriptionShort": "Investigative Reporting<br>3rd Place KIPA Award",
+      "url": "http://www.google.com",
+      "languages": "",
+      "descriptionLong": "An award winning piece of investigative journalism."
+    },
+    {
+      "id": 2,
+      "image": "/imgs/projects/battle_over_open_records.png",
+      "title": "Battle Over Open Records",
+      "descriptionShort": "Press Release/Journalism<br>3rd Place KIPA Award",
+      "url": "http://www.google.com",
+      "languages": "",
+      "descriptionLong": "Reporting on university administration preventing the release of open records relating the the firing of two African American employees."
+    },
+    {
+      "id": 3,
+      "image": "/imgs/projects/issue7.png",
+      "title": "1st Place KIPA Award",
+      "descriptionShort": "Layout: part of a team",
+      "url": "http://www.google.com",
+      "languages": "",
+      "descriptionLong": "What is it?"
+    },
+    {
+      "id": 4,
+      "image": "/imgs/projects/issue8.png",
+      "title": "1st Place KIPA Award",
+      "descriptionShort": "Layout: part of a team",
+      "url": "http://www.google.com",
+      "languages": "",
+      "descriptionLong": "What is it?"
+    },
+    {
+      "id": 5,
+      "image": "/imgs/projects/issue9.png",
+      "title": "1st Place KIPA Award",
+      "descriptionShort": "Layout: part of a team",
+      "url": "http://www.google.com",
+      "languages": "",
+      "descriptionLong": "What is it?"
+    },
+    {
+      "id": 6,
+      "image": "/imgs/projects/komoot_project_front.png",
+      "title": "Info card: KOMOOT",
+      "descriptionShort": "Print layout/design",
+      "url": "http://www.google.com",
+      "languages": "",
+      "descriptionLong": "Part of a job application was to ''do something special with our name.'' I decided to write an A5 info card which customers could pick up at the register in their favorite sports store."
+    }
+  ]
+}

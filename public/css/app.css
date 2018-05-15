@@ -10411,28 +10411,30 @@ a.text-dark:focus {
   }
 }
 
-#full-page body,
-#full-page html {
-  background-color: #fff;
-  color: #636b6f;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 100;
-  height: 100vh;
-  margin: 0;
-}
-
 body {
   background-color: #262626;
 }
 
+ul.navbar-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
 #content-container {
-  margin-top: 2em;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%;
+  margin-top: 10%;
+}
+
+#content-box {
   border-radius: 1em;
   padding: 1em;
-  background-color: #f5f8fa;
+  background-color: #f4f4f4;
   -webkit-box-shadow: 7px 11px 18px black;
           box-shadow: 7px 11px 18px black;
 }
@@ -10445,8 +10447,8 @@ body {
 .typed-cursor {
   margin-left: 2px;
   opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
+  -webkit-animation: blink .7s infinite;
+  animation: blink .7s infinite;
 }
 
 @keyframes blink {
