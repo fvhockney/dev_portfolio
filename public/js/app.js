@@ -60934,8 +60934,8 @@ exports.push([module.i, "", ""]);
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__json_projects_json__ = __webpack_require__(175);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__json_projects_json___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__json_projects_json__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__ProjectCards__ = __webpack_require__(291);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__ProjectCards___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__ProjectCards__);
 //
 //
 //
@@ -60948,39 +60948,28 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
+
+
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: 'Portfolio',
+  components: { ProjectCards: __WEBPACK_IMPORTED_MODULE_0__ProjectCards___default.a },
   data: function data() {
     return {
-      projects: __WEBPACK_IMPORTED_MODULE_0__json_projects_json__["projects"]
+      types: ['Web/Code', 'Design', 'Writing']
     };
   },
 
-  methods: {
-    goToProject: function goToProject(e) {
-      alert('Going to site');
-    },
-    modalName: function modalName(project) {
-      return "modal" + project.id;
-    }
-  }
+
+  methods: {}
 });
 
 /***/ }),
 /* 175 */
 /***/ (function(module, exports) {
 
-module.exports = {"projects":[{"id":1,"image":"/imgs/projects/allegations_abound.png","title":"Allegations Abound","descriptionShort":"Investigative Reporting<br>3rd Place KIPA Award","url":"http://www.google.com","languages":"","descriptionLong":"An award winning piece of investigative journalism."},{"id":2,"image":"/imgs/projects/battle_over_open_records.png","title":"Battle Over Open Records","descriptionShort":"Press Release/Journalism<br>3rd Place KIPA Award","url":"http://www.google.com","languages":"","descriptionLong":"Reporting on university administration preventing the release of open records relating the the firing of two African American employees."},{"id":3,"image":"/imgs/projects/issue7.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"http://www.google.com","languages":"","descriptionLong":"What is it?"},{"id":4,"image":"/imgs/projects/issue8.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"http://www.google.com","languages":"","descriptionLong":"What is it?"},{"id":5,"image":"/imgs/projects/issue9.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"http://www.google.com","languages":"","descriptionLong":"What is it?"},{"id":6,"image":"/imgs/projects/komoot_project_front.png","title":"Info card: KOMOOT","descriptionShort":"Print layout/design","url":"http://www.google.com","languages":"","descriptionLong":"Part of a job application was to ''do something special with our name.'' I decided to write an A5 info card which customers could pick up at the register in their favorite sports store."}]}
+module.exports = {"projects":[{"id":1,"type":"Writing","image":"/imgs/projects/allegations_abound.png","title":"Allegations Abound","descriptionShort":"Investigative Reporting<br>3rd Place KIPA Award","url":"/docs/allegations_abound.pdf","languages":"","descriptionLong":"An award winning piece of investigative journalism."},{"id":2,"type":"Writing","image":"/imgs/projects/battle_over_open_records.png","title":"Battle Over Open Records","descriptionShort":"Press Release/Journalism<br>3rd Place KIPA Award","url":"/docs/battle_over_open_records.pdf","languages":"","descriptionLong":"Reporting on university administration preventing the release of open records relating the the firing of two African American employees."},{"id":3,"type":"Design","image":"/imgs/projects/issue7.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"/docs/issue7.pdf","languages":"","descriptionLong":"What is it?"},{"id":4,"type":"Design","image":"/imgs/projects/issue8.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"/docs/issue8.pdf","languages":"","descriptionLong":"What is it?"},{"id":5,"type":"Design","image":"/imgs/projects/issue9.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"/docs/issue9.pdf","languages":"","descriptionLong":"What is it?"},{"id":6,"type":"Design","image":"/imgs/projects/komoot_project_front.png","title":"Info card: KOMOOT","descriptionShort":"Print layout/design","url":"/docs/komoot_project.pdf","languages":"","descriptionLong":"Part of a job application was to ''do something special with our name.'' I decided to write an A5 info card which customers could pick up at the register in their favorite sports store."},{"id":7,"type":"Web/Code","image":"http://placekitten.com/150/150","title":"Typing Cat Consulting","descriptionShort":"Website for Copyeditor","url":"https://typingcatconsulting.com","languages":"PHP, Vue, Laravel, Javascript","descriptionLong":"A website for my freelance copyediting business. This site is built using the Laravel framework and incorporates some Vue elements for added user experience."},{"id":8,"type":"Web/Code","image":"http://placekitten.com/150/150","title":"Fernweh Website","descriptionShort":"Website under development","url":"http://fernwehdev.vernhockney.space","languages":"PHP, Vue, Laravel, Javascript","descriptionLong":"A current development project for an information and start-up travel agency site focusing on boutiuque travel to Israel."}]}
 
 /***/ }),
 /* 176 */
@@ -60994,101 +60983,22 @@ var render = function() {
     "div",
     { attrs: { id: "content-container" } },
     [
-      _c("b-container", [
-        _c(
-          "div",
-          { staticClass: "d-flex flex-wrap justify-content-around" },
-          _vm._l(this.projects, function(project) {
-            return _c(
-              "b-card",
-              {
-                key: project.id,
-                staticClass: "mb-5 mx-4",
-                staticStyle: { "max-width": "16rem" },
-                attrs: {
-                  title: project.title,
-                  footer: project.languages,
-                  "img-src": project.image,
-                  "img-alt": "Cute Kittens",
-                  "img-top": ""
-                }
-              },
-              [
-                _c("p", {
-                  staticClass: "card-text",
-                  domProps: { innerHTML: _vm._s(project.descriptionShort) }
-                }),
-                _vm._v(" "),
-                _c(
-                  "b-button",
-                  {
-                    directives: [
-                      {
-                        name: "b-modal",
-                        rawName: "v-b-modal",
-                        value: _vm.modalName(project),
-                        expression: "modalName(project)"
-                      }
-                    ],
-                    attrs: { variant: "primary" }
-                  },
-                  [_vm._v("Learn More")]
-                ),
-                _vm._v(" "),
-                _c(
-                  "b-button",
-                  {
-                    attrs: { variant: "success" },
-                    on: { click: _vm.goToProject }
-                  },
-                  [_vm._v("Visit Project")]
-                )
-              ],
-              1
-            )
-          })
-        )
-      ]),
-      _vm._v(" "),
-      _vm._l(this.projects, function(project) {
-        return _c(
-          "b-modal",
-          {
-            key: project.id,
-            attrs: {
-              id: _vm.modalName(project),
-              title: project.title,
-              "title-tag": "h2",
-              "cancel-title": "Close",
-              "ok-title": "Visit Project"
-            },
-            on: {
-              ok: function($event) {
-                if (
-                  !("button" in $event) &&
-                  _vm._k(
-                    $event.keyCode,
-                    "preventDefault",
-                    undefined,
-                    $event.key,
-                    undefined
-                  )
-                ) {
-                  return null
-                }
-                return _vm.goToProject($event)
-              }
-            }
-          },
-          [
-            _c("p", { staticClass: "my-4" }, [
-              _vm._v(_vm._s(project.descriptionLong))
-            ])
-          ]
-        )
-      })
+      _c(
+        "b-container",
+        _vm._l(this.types, function(type) {
+          return _c(
+            "div",
+            [
+              _c("h1", { staticClass: "text-light" }, [_vm._v(_vm._s(type))]),
+              _vm._v(" "),
+              _c("project-cards", { attrs: { type: type } })
+            ],
+            1
+          )
+        })
+      )
     ],
-    2
+    1
   )
 }
 var staticRenderFns = []
@@ -71865,6 +71775,276 @@ function removeBVPO(el) {
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 290 */,
+/* 291 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var disposed = false
+function injectStyle (ssrContext) {
+  if (disposed) return
+  __webpack_require__(292)
+}
+var normalizeComponent = __webpack_require__(12)
+/* script */
+var __vue_script__ = __webpack_require__(294)
+/* template */
+var __vue_template__ = __webpack_require__(295)
+/* template functional */
+var __vue_template_functional__ = false
+/* styles */
+var __vue_styles__ = injectStyle
+/* scopeId */
+var __vue_scopeId__ = null
+/* moduleIdentifier (server only) */
+var __vue_module_identifier__ = null
+var Component = normalizeComponent(
+  __vue_script__,
+  __vue_template__,
+  __vue_template_functional__,
+  __vue_styles__,
+  __vue_scopeId__,
+  __vue_module_identifier__
+)
+Component.options.__file = "resources/assets/js/components/ProjectCards.vue"
+
+/* hot reload */
+if (false) {(function () {
+  var hotAPI = require("vue-hot-reload-api")
+  hotAPI.install(require("vue"), false)
+  if (!hotAPI.compatible) return
+  module.hot.accept()
+  if (!module.hot.data) {
+    hotAPI.createRecord("data-v-2394d081", Component.options)
+  } else {
+    hotAPI.reload("data-v-2394d081", Component.options)
+  }
+  module.hot.dispose(function (data) {
+    disposed = true
+  })
+})()}
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 292 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(293);
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var update = __webpack_require__(11)("909f42da", content, false, {});
+// Hot Module Replacement
+if(false) {
+ // When the styles change, update the <style> tags
+ if(!content.locals) {
+   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-2394d081\",\"scoped\":false,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ProjectCards.vue", function() {
+     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-2394d081\",\"scoped\":false,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ProjectCards.vue");
+     if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
+     update(newContent);
+   });
+ }
+ // When the module is disposed, remove the <style> tags
+ module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+/* 293 */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(8)(false);
+// imports
+
+
+// module
+exports.push([module.i, "", ""]);
+
+// exports
+
+
+/***/ }),
+/* 294 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__json_projects_json__ = __webpack_require__(175);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__json_projects_json___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__json_projects_json__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  name: 'ProjectCards',
+  props: ['type'],
+  data: function data() {
+    return {
+      projects: __WEBPACK_IMPORTED_MODULE_0__json_projects_json__["projects"]
+    };
+  },
+
+
+  computed: {
+    typedProjects: function typedProjects() {
+      var _this = this;
+
+      return _.reject(this.projects, function (o) {
+        return o.type !== _this.type;
+      });
+    }
+  },
+  methods: {
+    modalName: function modalName(project) {
+      return "modal" + project.id;
+    },
+    goToProject: function goToProject(project) {
+      window.location.href = project.url;
+    }
+  }
+});
+
+/***/ }),
+/* 295 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    [
+      _c(
+        "div",
+        { staticClass: "d-flex flex-wrap justify-content-around" },
+        _vm._l(this.typedProjects, function(project) {
+          return _c(
+            "b-card",
+            {
+              key: project.id,
+              staticClass: "mb-5 mx-4",
+              staticStyle: { "max-width": "16rem" },
+              attrs: {
+                title: project.title,
+                footer: project.languages,
+                "img-src": project.image,
+                "img-alt": "Cute Kittens",
+                "img-top": ""
+              }
+            },
+            [
+              _c("p", {
+                staticClass: "card-text",
+                domProps: { innerHTML: _vm._s(project.descriptionShort) }
+              }),
+              _vm._v(" "),
+              _c(
+                "b-button",
+                {
+                  directives: [
+                    {
+                      name: "b-modal",
+                      rawName: "v-b-modal",
+                      value: _vm.modalName(project),
+                      expression: "modalName(project)"
+                    }
+                  ],
+                  attrs: { variant: "primary" }
+                },
+                [_vm._v("Learn More")]
+              ),
+              _vm._v(" "),
+              _c(
+                "b-button",
+                {
+                  attrs: { variant: "success" },
+                  on: {
+                    click: function($event) {
+                      _vm.goToProject(project)
+                    }
+                  }
+                },
+                [_vm._v("Visit Project")]
+              )
+            ],
+            1
+          )
+        })
+      ),
+      _vm._v(" "),
+      _vm._l(this.typedProjects, function(project) {
+        return _c(
+          "b-modal",
+          {
+            key: project.id,
+            attrs: {
+              id: _vm.modalName(project),
+              title: project.title,
+              "title-tag": "h2",
+              "cancel-title": "Close",
+              "ok-title": "Visit Project"
+            },
+            on: {
+              ok: function($event) {
+                if (
+                  !("button" in $event) &&
+                  _vm._k(
+                    $event.keyCode,
+                    "preventDefault",
+                    undefined,
+                    $event.key,
+                    undefined
+                  )
+                ) {
+                  return null
+                }
+                _vm.goToProject(project)
+              }
+            }
+          },
+          [
+            _c("p", { staticClass: "my-4" }, [
+              _vm._v(_vm._s(project.descriptionLong))
+            ])
+          ]
+        )
+      })
+    ],
+    2
+  )
+}
+var staticRenderFns = []
+render._withStripped = true
+module.exports = { render: render, staticRenderFns: staticRenderFns }
+if (false) {
+  module.hot.accept()
+  if (module.hot.data) {
+    require("vue-hot-reload-api")      .rerender("data-v-2394d081", module.exports)
+  }
+}
 
 /***/ })
 /******/ ]);

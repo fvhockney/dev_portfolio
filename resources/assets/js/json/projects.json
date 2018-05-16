@@ -2,57 +2,83 @@
   "projects": [
     {
       "id": 1,
+      "type": "Writing",
       "image": "/imgs/projects/allegations_abound.png",
       "title": "Allegations Abound",
       "descriptionShort": "Investigative Reporting<br>3rd Place KIPA Award",
-      "url": "http://www.google.com",
+      "url": "/docs/allegations_abound.pdf",
       "languages": "",
       "descriptionLong": "An award winning piece of investigative journalism."
     },
     {
       "id": 2,
+      "type": "Writing",
       "image": "/imgs/projects/battle_over_open_records.png",
       "title": "Battle Over Open Records",
       "descriptionShort": "Press Release/Journalism<br>3rd Place KIPA Award",
-      "url": "http://www.google.com",
+      "url": "/docs/battle_over_open_records.pdf",
       "languages": "",
       "descriptionLong": "Reporting on university administration preventing the release of open records relating the the firing of two African American employees."
     },
     {
       "id": 3,
+      "type": "Design",
       "image": "/imgs/projects/issue7.png",
       "title": "1st Place KIPA Award",
       "descriptionShort": "Layout: part of a team",
-      "url": "http://www.google.com",
+      "url": "/docs/issue7.pdf",
       "languages": "",
       "descriptionLong": "What is it?"
     },
     {
       "id": 4,
+      "type": "Design",
       "image": "/imgs/projects/issue8.png",
       "title": "1st Place KIPA Award",
       "descriptionShort": "Layout: part of a team",
-      "url": "http://www.google.com",
+      "url": "/docs/issue8.pdf",
       "languages": "",
       "descriptionLong": "What is it?"
     },
     {
       "id": 5,
+      "type": "Design",
       "image": "/imgs/projects/issue9.png",
       "title": "1st Place KIPA Award",
       "descriptionShort": "Layout: part of a team",
-      "url": "http://www.google.com",
+      "url": "/docs/issue9.pdf",
       "languages": "",
       "descriptionLong": "What is it?"
     },
     {
       "id": 6,
+      "type": "Design",
       "image": "/imgs/projects/komoot_project_front.png",
       "title": "Info card: KOMOOT",
       "descriptionShort": "Print layout/design",
-      "url": "http://www.google.com",
+      "url": "/docs/komoot_project.pdf",
       "languages": "",
       "descriptionLong": "Part of a job application was to ''do something special with our name.'' I decided to write an A5 info card which customers could pick up at the register in their favorite sports store."
+    },
+    {
+      "id": 7,
+      "type": "Web/Code",
+      "image": "http://placekitten.com/150/150",
+      "title": "Typing Cat Consulting",
+      "descriptionShort": "Website for Copyeditor",
+      "url": "https://typingcatconsulting.com",
+      "languages": "PHP, Vue, Laravel, Javascript",
+      "descriptionLong": "A website for my freelance copyediting business. This site is built using the Laravel framework and incorporates some Vue elements for added user experience."
+    },
+    {
+      "id": 8,
+      "type": "Web/Code",
+      "image": "http://placekitten.com/150/150",
+      "title": "Fernweh Website",
+      "descriptionShort": "Website under development",
+      "url": "http://fernwehdev.vernhockney.space",
+      "languages": "PHP, Vue, Laravel, Javascript",
+      "descriptionLong": "A current development project for an information and start-up travel agency site focusing on boutiuque travel to Israel."
     }
   ]
 }
