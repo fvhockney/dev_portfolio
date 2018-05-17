@@ -6,10 +6,10 @@
     <h1 class="display-1 text-light font-weight-bold">More</h1>
     <h4 class="text-light" style="transform: translate(50px)"> &mdash; Fred Hockney</h4>
   </div>
-  <div class="social">
-    <img class="rounded-circle mr-5" src="http://placekitten.com/g/75/75" alt="GitHub Icon" title="See My Github Repos">
-    <img class="rounded-circle" src="http://placekitten.com/g/75/75" alt="LinkedIn Icon" title="See My LinkedIn Profile">
-    <img class="rounded-circle ml-5" src="http://placekitten.com/g/75/75" alt="CodePen" title="See My CodePen">
+  <div class="social d-flex align-items-center">
+    <img class="mr-5" src="/imgs/GitHub-Mark-Light-64px.png" width="auto" height="48" alt="GitHub Icon" title="See My Github Repos">
+    <img class="" src="imgs/CodePen-Button-Fill-White-Large.png" height="52" width="auto" alt="CodePen" title="See My CodePen">
+    <img class="ml-5" src="/imgs/In-White-66px-TM.png" height="43" width="auto" alt="LinkedIn Icon" title="See My LinkedIn Profile">
   </div>
   <div class="foot">
     <p class="text-light rotate">fvhockney@gmail.com</p>

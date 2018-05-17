@@ -2,7 +2,10 @@
 <nav>
   <b-navbar toggleable="md" type="dark" variant="faded" fixed="top">
     <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-    <b-navbar-brand :to="{name: 'home'}">B</b-navbar-brand>
+    <b-navbar-brand :to="{name: 'home'}">
+      <!-- <img src="/imgs/personal_logo_white.svg" alt="F. Vernon Hockney" height="50px" width="auto"> -->
+      F. Vernon Hockney
+    </b-navbar-brand>
 
     <b-collapse is-nav id="nav_collapse">
       <b-navbar-nav class="ml-auto">
