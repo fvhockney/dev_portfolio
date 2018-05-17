@@ -59014,7 +59014,7 @@ exports = module.exports = __webpack_require__(7)(false);
 
 
 // module
-exports.push([module.i, "\n.home-content-grid[data-v-6707e3d4] {\n  display: grid;\n  grid-template-columns: [cstart] 20fr [cline2] 1fr [cline3] auto [end];\n  grid-template-rows: [rstart] 5fr [rline2] auto [rline2] 1fr [rline3] 1fr [end];\n  grid-template-areas: \". . foot\" \". . foot\" \". . foot\" \". . .\";\n}\n.social[data-v-6707e3d4] {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  grid-column: cstart / cend;\n  grid-row: rline2;\n  -webkit-box-orient: horizontal;\n  -webkit-box-direction: normal;\n      -ms-flex-direction: row;\n          flex-direction: row;\n  -webkit-box-pack: center;\n      -ms-flex-pack: center;\n          justify-content: center;\n}\n.main[data-v-6707e3d4] {\n  grid-column: cstart / cend;\n  grid-row: rstart / rend;\n  margin-top: 4em;\n}\n.foot[data-v-6707e3d4] {\n  grid-area: foot;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-orient: vertical;\n  -webkit-box-direction: normal;\n      -ms-flex-direction: column;\n          flex-direction: column;\n  -webkit-box-pack: end;\n      -ms-flex-pack: end;\n          justify-content: flex-end;\n  margin-right: 1em;\n}\n.foot .rotate[data-v-6707e3d4] {\n    -webkit-writing-mode: vertical-rl;\n        -ms-writing-mode: tb-rl;\n            writing-mode: vertical-rl;\n    text-orientation: sideways;\n    -webkit-transform: rotate(180deg);\n            transform: rotate(180deg);\n}\n", ""]);
+exports.push([module.i, "\n.home-content-grid[data-v-6707e3d4] {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-orient: vertical;\n  -webkit-box-direction: normal;\n      -ms-flex-direction: column;\n          flex-direction: column;\n  -ms-flex-pack: distribute;\n      justify-content: space-around;\n}\n.social[data-v-6707e3d4] {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-orient: horizontal;\n  -webkit-box-direction: normal;\n      -ms-flex-direction: row;\n          flex-direction: row;\n  -ms-flex-pack: distribute;\n      justify-content: space-around;\n  margin-top: 1em;\n  margin-bottom: 1em;\n}\n.foot[data-v-6707e3d4] {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-orient: horizontal;\n  -webkit-box-direction: normal;\n      -ms-flex-direction: row;\n          flex-direction: row;\n  -ms-flex-pack: distribute;\n      justify-content: space-around;\n}\n@media screen and (min-width: 425px) and (min-height: 550px) {\n.home-content-grid[data-v-6707e3d4] {\n    display: grid;\n    grid-column-gap: 15px;\n    grid-template-columns: [cstart] 20fr [cline2] 1fr [cline3] auto [end];\n    grid-template-rows: [rstart] 5fr [rline2] auto [rline2] 1fr [rline3] 1fr [end];\n    grid-template-areas: \". . foot\" \". . foot\" \". . foot\" \". . .\";\n}\n.social[data-v-6707e3d4] {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    grid-column: cstart / cend;\n    grid-row: rline2;\n    -webkit-box-orient: horizontal;\n    -webkit-box-direction: normal;\n        -ms-flex-direction: row;\n            flex-direction: row;\n    -webkit-box-pack: center;\n        -ms-flex-pack: center;\n            justify-content: center;\n}\n.main[data-v-6707e3d4] {\n    grid-column: cstart / cend;\n    grid-row: rstart;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-orient: horizontal;\n    -webkit-box-direction: normal;\n        -ms-flex-direction: row;\n            flex-direction: row;\n    -webkit-box-pack: center;\n        -ms-flex-pack: center;\n            justify-content: center;\n    -webkit-box-align: center;\n        -ms-flex-align: center;\n            align-items: center;\n}\n.foot[data-v-6707e3d4] {\n    grid-area: foot;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-orient: vertical;\n    -webkit-box-direction: normal;\n        -ms-flex-direction: column;\n            flex-direction: column;\n    -webkit-box-pack: end;\n        -ms-flex-pack: end;\n            justify-content: flex-end;\n    margin-right: 1em;\n}\n.foot .rotate[data-v-6707e3d4] {\n      -webkit-writing-mode: vertical-rl;\n          -ms-writing-mode: tb-rl;\n              writing-mode: vertical-rl;\n      text-orientation: sideways;\n      -webkit-transform: rotate(180deg);\n              transform: rotate(180deg);\n}\n}\n", ""]);
 
 // exports
 
@@ -59025,6 +59025,8 @@ exports.push([module.i, "\n.home-content-grid[data-v-6707e3d4] {\n  display: gri
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+//
+//
 //
 //
 //
@@ -59067,24 +59069,26 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "home-content-grid" }, [
       _c("div", { staticClass: "text-center main" }, [
-        _c("h2", { staticClass: "display-2 text-light" }, [_vm._v("Less ")]),
-        _vm._v(" "),
-        _c("h4", { staticClass: "display-4 text-light font-italic" }, [
-          _vm._v("is")
-        ]),
-        _vm._v(" "),
-        _c("h1", { staticClass: "display-1 text-light font-weight-bold" }, [
-          _vm._v("More")
-        ]),
-        _vm._v(" "),
-        _c(
-          "h4",
-          {
-            staticClass: "text-light",
-            staticStyle: { transform: "translate(50px)" }
-          },
-          [_vm._v(" — Fred Hockney")]
-        )
+        _c("div", [
+          _c("h2", { staticClass: "display-2 text-light" }, [_vm._v("Less ")]),
+          _vm._v(" "),
+          _c("h4", { staticClass: "display-4 text-light font-italic" }, [
+            _vm._v("is")
+          ]),
+          _vm._v(" "),
+          _c("h1", { staticClass: "display-1 text-light font-weight-bold" }, [
+            _vm._v("More")
+          ]),
+          _vm._v(" "),
+          _c(
+            "h4",
+            {
+              staticClass: "text-light",
+              staticStyle: { transform: "translate(50px)" }
+            },
+            [_vm._v(" — Fred Hockney")]
+          )
+        ])
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "social d-flex align-items-center" }, [
@@ -60695,7 +60699,7 @@ var render = function() {
             "b-row",
             [
               _c("b-col", { attrs: { md: "" } }, [
-                _c("div", { key: "form-text" }, [
+                _c("div", { key: "form-text", staticClass: "mb-4 mb-md-0" }, [
                   _vm._v(
                     "\n          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n        "
                   )
@@ -61119,7 +61123,9 @@ var render = function() {
   return _c(
     "div",
     [
-      _c("h1", { staticClass: "text-light" }, [_vm._v(_vm._s(_vm.type))]),
+      _c("h1", { staticClass: "text-light mb-4 text-center text-md-left" }, [
+        _vm._v(_vm._s(_vm.type))
+      ]),
       _vm._v(" "),
       _c(
         "div",
@@ -72057,13 +72063,16 @@ var render = function() {
         [
           _c(
             "div",
-            { staticClass: "d-flex justify-content-end" },
+            {
+              staticClass:
+                "d-flex justify-content-around justify-content-md-end"
+            },
             _vm._l(this.types, function(type) {
               return _c(
                 "h5",
                 {
                   key: type,
-                  staticClass: "text-light m-4 selector",
+                  staticClass: "text-light selector mx-md-4 mb-4 mb-md-0",
                   class: _vm.shouldBold(type),
                   on: {
                     click: function($event) {

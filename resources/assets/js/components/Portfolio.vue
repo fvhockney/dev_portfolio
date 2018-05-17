@@ -1,8 +1,8 @@
 <template>
 <div id="content-container">
   <b-container>
-    <div class="d-flex justify-content-end">
-      <h5 v-for="type in this.types" class="text-light m-4 selector" :class="shouldBold(type)" @click="updateSelectedType(type)" :key="type">{{ type }}</h5>
+    <div class="d-flex justify-content-around justify-content-md-end">
+      <h5 v-for="type in this.types" class="text-light selector mx-md-4 mb-4 mb-md-0" :class="shouldBold(type)" @click="updateSelectedType(type)" :key="type">{{ type }}</h5>
     </div>
     <transition name="component-fade" mode="out-in">
       <project-cards :type="this.selectedType" :key="selectedType"></project-cards>
@@ -58,4 +58,5 @@ export default {
 .component-fade-leave-to {
     opacity: 0;
 }
+
 </style>

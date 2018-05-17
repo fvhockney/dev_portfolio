@@ -1,6 +1,6 @@
 <template>
 <div>
-  <h1 class="text-light">{{ type }}</h1>
+  <h1 class="text-light mb-4 text-center text-md-left">{{ type }}</h1>
 
   <!-- Cards -->
   <div class="d-flex flex-wrap justify-content-around">
