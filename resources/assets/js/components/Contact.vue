@@ -4,7 +4,16 @@
     <b-row>
       <b-col md>
         <div key="form-text" class="mb-4 mb-md-0">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          <h4>
+            If you have made it this far, take a second to send me a message! I would particularly love to hear from you if you want to
+          </h4>
+          <ul>
+            <li class="h5">Network</li>
+            <li class="h5">Discuss a job</li>
+            <li class="h5">Discuss a project</li>
+            <li class="h5">Hire me for a project</li>
+            <li class="h5">Just say HI!</li>
+          </ul>
         </div>
       </b-col>
       <b-col md>

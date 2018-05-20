@@ -1,18 +1,58 @@
 <template>
 <div id="content-container">
   <b-container>
-    <div id="content-box">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
+    <selector :items='this.sections' @itemUpdated="updateSelectedType" :selectedItem="this.selectedSection" class="mb-4 mb-md-5"></selector>
+    <transition name="drop-in" mode="out-in">
+      <component :is="currentComponent"></component>
+    </transition>
   </b-container>
 </div>
 </template>
 
 <script>
+import Selector from './Selector';
+import AboutBasic from './AboutBasic';
+import AboutAdvanced from './AboutAdvanced';
+import AboutExpert from './AboutExpert';
+
 export default {
-  name: 'About'
+  name: 'About',
+  components: {Selector, AboutBasic, AboutAdvanced, AboutExpert},
+  data() {
+    return {
+      sections: [
+        'Basic',
+        'Advanced',
+        'Expert'
+      ],
+      selectedSection: 'Basic',
+    }
+  },
+
+  computed: {
+    currentComponent: function() {
+      return 'about-' + this.selectedSection.toLowerCase()
+    }
+  },
+
+  methods: {
+    updateSelectedType: function(event) {
+      this.selectedSection = event
+    }
+  },
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
+
+.content-box {
+  width: fit-content;
+  border-radius   : 1em;
+  padding         : 3em;
+  background-color: #f4f4f4;
+  box-shadow      : 7px 11px 18px black;
+  >ul {
+    padding: 0;
+  }
+}
 </style>

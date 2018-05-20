@@ -54,15 +54,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.drop-in-enter-active,
-.drop-in-leave-active {
-    transition: opacity 0.3s ease;
-}
-/* .component-fade-leave-active below version 2.1.8 */
-.drop-in-enter,
-.drop-in-leave-to {
-    opacity: 0;
-}
+
 
 #main-container {
     overflow-x: hidden;

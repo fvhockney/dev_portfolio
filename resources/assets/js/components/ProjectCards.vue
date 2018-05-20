@@ -16,7 +16,7 @@
 
   <!-- Modals -->
   <b-modal v-for="project in this.typedProjects" :key='project.id' :id="modalName(project)" :title="project.title" title-tag="h2" cancel-title="Close" ok-title="Visit Project" @ok.preventDefault="goToProject(project)">
-    <p class="my-4">{{ project.descriptionLong }}</p>
+    <p class="my-4" v-html="project.descriptionLong"></p>
   </b-modal>
 </div>
 </template>
@@ -32,7 +32,6 @@ export default {
   data() {
     return {
       projects,
-      currentImagePos: 0
     }
   },
 
@@ -48,6 +47,8 @@ export default {
       return "modal" + project.id
     },
     goToProject: function( project ) {
+      this.type === 'Web/Code' ?
+      window.open(project.url) :
       window.location.href = project.url
     },
   },

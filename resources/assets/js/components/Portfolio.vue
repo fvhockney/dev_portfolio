@@ -1,9 +1,7 @@
 <template>
 <div id="content-container">
   <b-container>
-    <div class="d-flex justify-content-around justify-content-md-end">
-      <h5 v-for="type in this.types" class="text-light selector mx-md-4 mb-4 mb-md-0" :class="shouldBold(type)" @click="updateSelectedType(type)" :key="type">{{ type }}</h5>
-    </div>
+    <selector :items='this.types' @itemUpdated="updateSelectedType" :selectedItem="this.selectedType"></selector>
     <transition name="component-fade" mode="out-in">
       <project-cards :type="this.selectedType" :key="selectedType"></project-cards>
     </transition>
@@ -13,11 +11,13 @@
 
 <script>
 import ProjectCards from './ProjectCards';
+import Selector from './Selector';
 
 export default {
   name: 'Portfolio',
   components: {
-    ProjectCards
+    ProjectCards,
+    Selector
   },
   data() {
     return {
@@ -35,11 +35,8 @@ export default {
   },
 
   methods: {
-    shouldBold: function( type ) {
-      return type === this.selectedType ? 'font-weight-bold' : null
-    },
-    updateSelectedType: function( type ) {
-      this.selectedType = type
+    updateSelectedType: function(event) {
+      this.selectedType = event
     }
 
   },
@@ -47,9 +44,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.selector:hover {
-    cursor: pointer;
-}
+
 .component-fade-enter-active,
 .component-fade-leave-active {
     transition: opacity 0.5s;
