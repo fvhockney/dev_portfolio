@@ -1,6 +1,5 @@
 {
-  "projects": [
-    {
+  "projects": [{
       "id": 1,
       "type": "Writing",
       "image": "/imgs/projects/allegations_abound.png",
@@ -57,13 +56,13 @@
       "title": "Info card: KOMOOT",
       "descriptionShort": "Print layout/design",
       "url": "/docs/komoot_project.pdf",
-      "languages": "",
-      "descriptionLong": "Part of a job application was to ''do something special with our name.'' I decided to write an A5 info card which customers could pick up at the register in their favorite sports store."
+      "languages": "Scribus",
+      "descriptionLong": "<p>Part of a job application was to ''do something special with our name.'' I decided to write an A5 info card which customers could pick up at the register in their favorite sports store.</p>"
     },
     {
       "id": 7,
       "type": "Web/Code",
-      "image": "/imgs/typingcatconsulting_screen.png",
+      "image": "/imgs/projects/typingcatconsulting_screen.png",
       "title": "Typing Cat Consulting",
       "descriptionShort": "Copyeditor Website",
       "url": "https://typingcatconsulting.com",
@@ -73,32 +72,41 @@
     {
       "id": 8,
       "type": "Web/Code",
-      "image": "http://placekitten.com/150/150",
+      "image": "/imgs/projects/sata_test.png",
       "title": "Fernweh Website",
       "descriptionShort": "Website under development",
       "url": "http://fernwehdev.vernhockney.space",
       "languages": "PHP, Vue, Laravel, Javascript",
-      "descriptionLong": "A current development project for an information and start-up travel agency site focusing on boutiuque travel to Israel."
+      "descriptionLong": "<p>A current development project for an information and start-up travel agency site focusing on boutiuque travel to Israel.</p><p>This site is still primarily in the development stage. As such, it is not fully functional. You can, however, get some idea of my development process. Normally, I develop on my local machine or on a virtual machine. In this case, I need the website to be visible to a friend who has no technology experience. For this reason, I push a ''dev'' version to bitbucket and then to the server; however, I still do my development on a local machine.</p>"
     },
     {
       "id": 9,
       "type": "Web/Code",
-      "image": "/imgs/devportfolio_screen.png",
+      "image": "/imgs/projects/devportfolio_screen.png",
       "title": "Personal/Portfolio Website",
       "descriptionShort": "This website!",
       "url": "http://fernwehdev.vernhockney.space",
       "languages": "PHP, Vue, Laravel, Javascript",
       "descriptionLong": "<p>This website is written almost entirely in Vue.js. Why? This site seemed like a perfect opportunity to create a SPA. It has a relatively flat hierarch with virtually no additional server calls needed. The only place, in fact, that needs to call the server is the contact page, and that server call is easily handled by axios. By creating the SPA, I can tap into the power of javascript to add a more fluid transformation between pages.</p><p>The portfolio page is the only page which is really 'data driven', but Vue does a nice job of handling the data and making it easy to expand as the portfoli grows. While Vue offers the ability to store the state in a store, I opted for the simpler JSON object which is then imported into the component. I see no reason to add the additional dependencies of Vuex when I am not really modifying the store. However, if I should add additional functionality in the future which makes Vuex necessary, then the JSON object is easily ported into the store and a minimal amount of refactoring is required to prevent the page from breaking.</p><p>I also use the vue-bootstrap library. This library allows me to use the Bootstrap 4 components and styles that I like while decoupling from all of the additional Bootstrap dependencies, like Jquery! I can further reduce the size of the files by manually importing only those components which I need from both vue-bootstrap and the Bootstrap.scss.</p>"
+    },
+    {
+      "id": 10,
+      "type": "Design",
+      "image": "/imgs/projects/fernweh_logos_display.svg",
+      "title": "Fernweh Logos",
+      "descriptionShort": "Logo designs for start-up travel agency",
+      "url": "/imgs/projects/fernweh_logos_display.svg",
+      "languages": "Inkscape",
+      "descriptionLong": "<p>I won't lie. One of my friends and I have a dream of starting a boutiuque travel agency to Israel. As part of the idea generation process, I decided to work on some designs for our theoretical agency. It was also a good excuse to practice using Inkscape, a FOSS vector graphics program.</p><p>The ''Fernweh'' font is hand-built. This would, ideally, be used on a letter head or as a text logo. The goal was to evoke a sense of flight and ocean-like movment &mdash; two things we both associate with Israel. We also wanted it to be clean and a bit edgy.</p><p>The box logo with the outline of Israel was an early attempt at integrating the text with a visual logo. Israel has some great wineries, so I took inspiration from wine lables to create this. The outline of Israel was traced by hand. The ''israel'' font was not drawn by me.</p><p>The four circular graphics are various attempts to create a logo based on what my friend conceived. The stork is quite often associated with Israel, and he has always been struck by the beauty of the sunsets there. The stork is traced from a CCO photo and the form has been manipulated somewhat.</p>"
     }
   ],
-  "techs": [
-    {
+  "techs": [{
       "name": "CSS 3",
       "type": "language",
       "img": "/imgs/tech/html5_css3_styling.svg",
       "height": "55",
       "alt": "CSS 3",
-      "level": "2"
+      "level": "3"
     },
     {
       "name": "Laravel",
@@ -106,7 +114,7 @@
       "img": "/imgs/tech/laravel_logo.svg",
       "height": "55",
       "alt": "Laravel",
-      "level": "2"
+      "level": "3"
     },
     {
       "name": "LaTeX",
@@ -154,7 +162,7 @@
       "img": "/imgs/tech/php_logo.svg",
       "height": "55",
       "alt": "PHP",
-      "level": "2"
+      "level": "3"
     },
     {
       "name": "HTML5",
@@ -162,7 +170,7 @@
       "img": "/imgs/tech/HTML5_Logo.svg",
       "height": "55",
       "alt": "HTML5",
-      "level": "2"
+      "level": "3"
     },
     {
       "name": "MariaDB",
@@ -178,7 +186,7 @@
       "img": "/imgs/tech/atom_logo.svg",
       "height": "55",
       "alt": "Atom",
-      "level": "2"
+      "level": "3"
     },
     {
       "name": "Vim",
@@ -194,7 +202,7 @@
       "img": "/imgs/tech/gimp_logo.png",
       "height": "55",
       "alt": "Gimp",
-      "level": "1"
+      "level": "2"
     },
     {
       "name": "Git",
@@ -254,43 +262,19 @@
     },
     {
       "name": "Digital Ocean",
-      "type": "stack",
+      "type": "program",
       "img": "/imgs/tech/digital_ocean_logo.svg",
       "height": "55",
       "alt": "Digital Ocean",
-      "level": ""
+      "level": "2"
     },
     {
       "name": "Linux",
-      "type": "stack",
+      "type": "os",
       "img": "/imgs/tech/sit3-bw-tran.1.gif",
       "height": "55",
       "alt": "Linux",
-      "level": ""
-    },
-    {
-      "name": "NGINX",
-      "type": "stack",
-      "img": "/imgs/tech/nginx_logo.svg",
-      "height": "55",
-      "alt": "NGINX",
-      "level": ""
-    },
-    {
-      "name": "MariaDB",
-      "type": "stack",
-      "img": "/imgs/tech/mariadb_logo.svg",
-      "height": "55",
-      "alt": "MariaDB",
-      "level": ""
-    },
-    {
-      "name": "PHP",
-      "type": "stack",
-      "img": "/imgs/tech/php_logo.svg",
-      "height": "55",
-      "alt": "PHP",
-      "level": ""
+      "level": "3"
     }
   ]
 }

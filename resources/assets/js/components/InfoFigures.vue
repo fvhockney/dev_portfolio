@@ -1,6 +1,6 @@
 <template>
-<div class="d-felx flex-wrap mb-4">
-  <figure v-for="item in this.currentCategory" class="figure d-inline-flex flex-column align-items-center m-4">
+<div class="d-flex flex-wrap justify-content-around mb-4">
+  <figure v-for="item in this.currentCategory" :key="item.name" class="d-inline-flex flex-column align-items-center m-3">
     <img :src="item.img" :alt="item.alt" :height="item.height" :width="item.width" :title="item.title" class="mb-2">
     <figcaption class="figure-caption text-center">{{item.name}}</figcaption>
     <div v-if="item.level" class="d-flex">

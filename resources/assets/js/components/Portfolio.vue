@@ -1,12 +1,12 @@
 <template>
-<div id="content-container">
-  <b-container>
-    <selector :items='this.types' @itemUpdated="updateSelectedType" :selectedItem="this.selectedType"></selector>
-    <transition name="component-fade" mode="out-in">
-      <project-cards :type="this.selectedType" :key="selectedType"></project-cards>
-    </transition>
-  </b-container>
-</div>
+  <div id="content-container">
+    <b-container>
+      <selector :items='this.types' @itemUpdated="updateSelectedType" :selectedItem="this.selectedType"></selector>
+      <transition name="component-fade" mode="out-in">
+        <project-cards :type="this.selectedType" :key="selectedType"></project-cards>
+      </transition>
+    </b-container>
+  </div>
 </template>
 
 <script>

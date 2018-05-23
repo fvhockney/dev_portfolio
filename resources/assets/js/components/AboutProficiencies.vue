@@ -1,6 +1,6 @@
 <template>
 <div class="content-box mx-auto">
-  <h1 class="text-center">Expert</h1>
+  <h1 class="text-center">Proficiencies</h1>
   <p>
     When all you have is a hammer, everything looks like a nail. This is an apt description of people who only work in one area. By utilizing and learning a variety of technologies I can leverage the appropriate tool for the job. Additionally, this makes
     me a versitile worker and minimizes the social cost when starting a project which is already underway.
@@ -8,10 +8,10 @@
   <p>
     Below you will find a selection of languages, frameworks, and technologies which I use or have some familiarity with.
   </p>
-  <div v-for="(cat, key) in this.categories" :key="key">
-    <h4>{{cat}}</h4>
+  <template v-for="(cat, key) in this.categories">
+    <h4 :key="key">{{cat}}</h4>
     <info-figures :category="key"></info-figures>
-  </div>
+  </template>
 </div>
 </template>
 
@@ -20,7 +20,7 @@ import InfoFigures from './InfoFigures';
 
 
 export default {
-  name: 'AboutExpert',
+  name: 'AboutProficiencies',
   components: {
     InfoFigures
   },
@@ -30,7 +30,6 @@ export default {
         language: "Languages",
         program: "Programs",
         os: "Operating Systems",
-        stack: "My Personal Stack"
       }
     }
   },

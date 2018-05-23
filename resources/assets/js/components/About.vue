@@ -1,31 +1,29 @@
 <template>
-<div id="content-container">
-  <b-container>
+<div class="container mt-5">
     <selector :items='this.sections' @itemUpdated="updateSelectedType" :selectedItem="this.selectedSection" class="mb-4 mb-md-5"></selector>
     <transition name="drop-in" mode="out-in">
       <component :is="currentComponent"></component>
     </transition>
-  </b-container>
 </div>
 </template>
 
 <script>
 import Selector from './Selector';
-import AboutBasic from './AboutBasic';
-import AboutAdvanced from './AboutAdvanced';
-import AboutExpert from './AboutExpert';
+import AboutBasics from './AboutBasics';
+import AboutPhilosophy from './AboutPhilosophy';
+import AboutProficiencies from './AboutProficiencies';
 
 export default {
   name: 'About',
-  components: {Selector, AboutBasic, AboutAdvanced, AboutExpert},
+  components: {Selector, AboutBasics, AboutPhilosophy, AboutProficiencies},
   data() {
     return {
       sections: [
-        'Basic',
-        'Advanced',
-        'Expert'
+        'Basics',
+        'Philosophy',
+        'Proficiencies'
       ],
-      selectedSection: 'Basic',
+      selectedSection: 'Basics',
     }
   },
 

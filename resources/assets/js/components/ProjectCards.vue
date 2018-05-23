@@ -5,7 +5,7 @@
   <!-- Cards -->
   <div class="d-flex flex-wrap justify-content-around">
 
-    <b-card v-for="project in this.typedProjects" :key='project.id' :title='project.title' :footer="project.languages" :img-src="project.image" img-alt="Cute Kittens" img-top style="max-width: 16rem;" class="mb-5 mx-4">
+    <b-card v-for="project in this.typedProjects" :key='project.id' :title='project.title' :footer="project.languages" :img-src="project.image" img-alt="Cute Kittens" img-top style="max-width: 16rem;" class="mb-5 mx-4 text-center">
       <p class="card-text" v-html="project.descriptionShort">
       </p>
       <b-button v-b-modal="modalName(project)" variant="primary">Learn More</b-button>
@@ -47,13 +47,16 @@ export default {
       return "modal" + project.id
     },
     goToProject: function( project ) {
-      this.type === 'Web/Code' ?
-      window.open(project.url) :
-      window.location.href = project.url
+      window.open(project.url)
     },
   },
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
+@media screen and (max-width: 329px){
+  div.card-body > button.btn.btn-primary {
+    margin-bottom: 0.5em;
+  }
+}
 </style>

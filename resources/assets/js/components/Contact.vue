@@ -87,8 +87,19 @@ export default {
   },
 
   methods: {
+    resetForm() {
+      _( this.form )
+        .forOwn( ( val, prop ) => this.form[ prop ] = '' )
+    },
+
     onSubmit: function() {
-      // form submit logic
+      axios.post('/send-mail', this.form)
+      .then(function (response) {
+        this.form.resetForm()
+      })
+      .catch(function (error) {
+        console.log(error)
+      });
     }
   },
 }
