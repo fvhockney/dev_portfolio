@@ -1,12 +1,11 @@
 <template>
-<div class="content-box mx-auto">
+<div class="content-box mx-auto mb-5">
   <h1 class="text-center">Proficiencies</h1>
   <p>
-    When all you have is a hammer, everything looks like a nail. This is an apt description of people who only work in one area. By utilizing and learning a variety of technologies I can leverage the appropriate tool for the job. Additionally, this makes
-    me a versitile worker and minimizes the social cost when starting a project which is already underway.
+    When all you have is a hammer, everything looks like a nail. This is an apt description of people who work only in one area. By utilizing and learning a variety of technologies, I can leverage the appropriate tool for the job. Additionally, this makes me a versatile worker and minimizes the social cost when entering a project which is already underway.
   </p>
   <p>
-    Below you will find a selection of languages, frameworks, and technologies which I use or have some familiarity with.
+    Below you will find a selection of languages, frameworks, and technologies which I use or with which I have some familiarity.
   </p>
   <template v-for="(cat, key) in this.categories">
     <h4 :key="key">{{cat}}</h4>

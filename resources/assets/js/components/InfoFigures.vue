@@ -25,9 +25,9 @@ export default {
   },
   computed: {
     currentCategory: function() {
-      return _.reject( this.techs, ( o ) => {
+      return _.orderBy( _.reject( this.techs, ( o ) => {
         return o.type !== this.category
-      } )
+      } ), ['level'], ['desc'])
     }
   },
 

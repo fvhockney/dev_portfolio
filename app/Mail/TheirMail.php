@@ -30,8 +30,7 @@ class TheirMail extends Mailable
      */
     public function build()
     {
-        $email = $this->from(env('MAIL_ADDRESS'))
-                      ->subject('Thanks for contacting Fred Hockney')
+        $email = $this->subject('Thanks for contacting Fred Hockney')
                       ->markdown('emails.TheirContact');
 
         return $email;

@@ -28748,7 +28748,7 @@ module.exports = Component.exports
 /* 48 */
 /***/ (function(module, exports) {
 
-module.exports = {"projects":[{"id":1,"type":"Writing","image":"/imgs/projects/allegations_abound.png","title":"Allegations Abound","descriptionShort":"Investigative Reporting<br>3rd Place KIPA Award","url":"/docs/allegations_abound.pdf","languages":"","descriptionLong":"<p>The sudden and mysterious termination of two African-American university employees roiled the black community at Northern Kentucky University and eventually set <em>The Northerner</em> at odds with the university's administration. This article is a result of multiple weeks of investigation utilizing open records requests and interviews in an attempt to discern what actually happened. The staff continued to investigate and follow this story after publication, and very nearly ended up in litigation with the university over a lack of transperency.</p><p>Writing this article presented myriad problems. Their was considerable push-back from both the administration, who did not wish to be seen in a bad light, and the two terminated employees, who wished to present themselves only in the best light. While this is understandable, journalistic ethics required that both parties be presented in as fair and complete a way as possible. Despite repeated attempts to be swayed one way or the other by the parties involved, I am convinced that Mr. Call and I followed our ethical guidlines.<p>This article received a third place KIPA award as part of an on-going investigation into the termination of these employees and the university's conduct.</p><h4>According to the award:</h4><blockquote class='blockquote'>These reporters did a great job of following the firing of two staff members. Good use of e-mails, public records and using the African-American student retention rate. Thought the second story could have been more concise, but the subheads helped.<blockquote>"},{"id":2,"type":"Writing","image":"/imgs/projects/battle_over_open_records.png","title":"Battle Over Open Records","descriptionShort":"Press Release/Journalism<br>3rd Place KIPA Award","url":"/docs/battle_over_open_records.pdf","languages":"","descriptionLong":"<p>This article was written as part of an on-going investigation by <em>The Northerner</em> into the termination of two university employees. While it may not be the most riveting read, the article highlights an adherence to journalistic style, presentation of complex legal structures in understandable terms for the general reader, and familiarity with the Associated Press Style Guide.</p><p>This article won a third place KIPA award in 2010 as part of an on-going investigation.</p><h4>According to the award:</h4><blockquote class='blockquote'>These reporters did a great job of following the firing of two staff members. Good use of e-mails, public records and using the African-American student retention rate. Thought the second story could have been more concise, but the subheads helped.<blockquote>"},{"id":3,"type":"Design","image":"/imgs/projects/issue7.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"/docs/issue7.pdf","languages":"","descriptionLong":"<p>I would love to take the credit for the designs which won first place KIPA awards; however, that would be overly presumptuous. The design and layout of any single issue involved the collaboration of a variety of team members. In any particular issue the team had to manage placement of ads, manage the length of articles, determine which articles would be placed where based on length and importance, which stories could be split onto multiple pages and where they should be split, availabiltiy of photos for each article, and the overall presentation and aesthetics.</p><p>Ms. Woods was our layout editor, and she was absoultely amazing. I learned so much from her about layout and inDesign. As the editor-in-cheif, I worked with Ms. Woods to plan the general layout of each issue. She would then work independently and consult me when she encountered a problem.</p><h4>According to the award:</h4><blockquote class='blockquote'>VERY clean design.  Lots of white space, good type choices, good design concept for a tab publication.  Good page 3 index section, very clean, they take the opportunity to feature comics and photos and use it well.  Doubletruck spread is a nice feature, good way to feature the cover story.  Very consistent throughout, departures are well-measured, as in the case of the Halloween edition.<blockquote>"},{"id":4,"type":"Design","image":"/imgs/projects/issue8.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"/docs/issue8.pdf","languages":"","descriptionLong":"<p>I would love to take the credit for the designs which won first place KIPA awards; however, that would be overly presumptuous. The design and layout of any single issue involved the collaboration of a variety of team members. In any particular issue the team had to manage placement of ads, manage the length of articles, determine which articles would be placed where based on length and importance, which stories could be split onto multiple pages and where they should be split, availabiltiy of photos for each article, and the overall presentation and aesthetics.</p><p>Ms. Woods was our layout editor, and she was absoultely amazing. I learned so much from her about layout and inDesign. As the editor-in-cheif, I worked with Ms. Woods to plan the general layout of each issue. She would then work independently and consult me when she encountered a problem.</p><h4>According to the award:</h4><blockquote class='blockquote'>VERY clean design.  Lots of white space, good type choices, good design concept for a tab publication.  Good page 3 index section, very clean, they take the opportunity to feature comics and photos and use it well.  Doubletruck spread is a nice feature, good way to feature the cover story.  Very consistent throughout, departures are well-measured, as in the case of the Halloween edition.<blockquote>"},{"id":5,"type":"Design","image":"/imgs/projects/issue9.png","title":"1st Place KIPA Award","descriptionShort":"Layout: part of a team","url":"/docs/issue9.pdf","languages":"","descriptionLong":"<p>I would love to take the credit for the designs which won first place KIPA awards; however, that would be overly presumptuous. The design and layout of any single issue involved the collaboration of a variety of team members. In any particular issue the team had to manage placement of ads, manage the length of articles, determine which articles would be placed where based on length and importance, which stories could be split onto multiple pages and where they should be split, availabiltiy of photos for each article, and the overall presentation and aesthetics.</p><p>Ms. Woods was our layout editor, and she was absoultely amazing. I learned so much from her about layout and inDesign. As the editor-in-cheif, I worked with Ms. Woods to plan the general layout of each issue. She would then work independently and consult me when she encountered a problem.</p><h4>According to the award:</h4><blockquote class='blockquote'>VERY clean design.  Lots of white space, good type choices, good design concept for a tab publication.  Good page 3 index section, very clean, they take the opportunity to feature comics and photos and use it well.  Doubletruck spread is a nice feature, good way to feature the cover story.  Very consistent throughout, departures are well-measured, as in the case of the Halloween edition.<blockquote>"},{"id":6,"type":"Design","image":"/imgs/projects/komoot_project_front.png","title":"Info card: KOMOOT","descriptionShort":"Print layout/design","url":"/docs/komoot_project.pdf","languages":"Scribus","descriptionLong":"<p>Part of a job application was to ''do something special with our name.'' I decided to write an A5 info card which customers could pick up at the register in their favorite sports store.</p>"},{"id":7,"type":"Web/Code","image":"/imgs/projects/typingcatconsulting_screen.png","title":"Typing Cat Consulting","descriptionShort":"Copyeditor Website","url":"https://typingcatconsulting.com","languages":"PHP, Vue, Laravel, Javascript","descriptionLong":"<p>This is a website that I built using the Laravel framework. It is also <em>my</em> website. It has a fully functioning blog, email, and information pages. Additionally, it utilizes an administration panel for uploading the blog posts and managing the comments.</p><p>After version 1.0, in which I used almost completely custom CSS, I decided to use the newly released Bootstrap 4 CSS. The main reason was to streamline the amount of time needed to write css and to provide consistent user experience throughout. It also helped to make the website more mobile friendly, although admittedly Bootstrap is not a cure all. There are still a few bugs on small resolution screens I need to address. Bootstrap also has some limitations with its sizing (w-*) utility.</p><p>I utilize very little javascript on the client facing portion of the site. It made sense to forego some of the web2.0 experiences since my target audience, Germany, has a higher than average number of users who disable javascript. Additionall, my customers are likely to be older and more security concious, meaning they may disable javascript. The comments section, however, <em>is</em> built on javascript, namely Vue.</p><p>The website also leverages a number of additional packages to add functionality and minimize reinventing the wheel.</p>"},{"id":8,"type":"Web/Code","image":"/imgs/projects/sata_test.png","title":"Fernweh Website","descriptionShort":"Website under development","url":"http://fernwehdev.vernhockney.space","languages":"PHP, Vue, Laravel, Javascript","descriptionLong":"<p>A current development project for an information and start-up travel agency site focusing on boutiuque travel to Israel.</p><p>This site is still primarily in the development stage. As such, it is not fully functional. You can, however, get some idea of my development process. Normally, I develop on my local machine or on a virtual machine. In this case, I need the website to be visible to a friend who has no technology experience. For this reason, I push a ''dev'' version to bitbucket and then to the server; however, I still do my development on a local machine.</p>"},{"id":9,"type":"Web/Code","image":"/imgs/projects/devportfolio_screen.png","title":"Personal/Portfolio Website","descriptionShort":"This website!","url":"http://fernwehdev.vernhockney.space","languages":"PHP, Vue, Laravel, Javascript","descriptionLong":"<p>This website is written almost entirely in Vue.js. Why? This site seemed like a perfect opportunity to create a SPA. It has a relatively flat hierarch with virtually no additional server calls needed. The only place, in fact, that needs to call the server is the contact page, and that server call is easily handled by axios. By creating the SPA, I can tap into the power of javascript to add a more fluid transformation between pages.</p><p>The portfolio page is the only page which is really 'data driven', but Vue does a nice job of handling the data and making it easy to expand as the portfoli grows. While Vue offers the ability to store the state in a store, I opted for the simpler JSON object which is then imported into the component. I see no reason to add the additional dependencies of Vuex when I am not really modifying the store. However, if I should add additional functionality in the future which makes Vuex necessary, then the JSON object is easily ported into the store and a minimal amount of refactoring is required to prevent the page from breaking.</p><p>I also use the vue-bootstrap library. This library allows me to use the Bootstrap 4 components and styles that I like while decoupling from all of the additional Bootstrap dependencies, like Jquery! I can further reduce the size of the files by manually importing only those components which I need from both vue-bootstrap and the Bootstrap.scss.</p>"},{"id":10,"type":"Design","image":"/imgs/projects/fernweh_logos_display.svg","title":"Fernweh Logos","descriptionShort":"Logo designs for start-up travel agency","url":"/imgs/projects/fernweh_logos_display.svg","languages":"Inkscape","descriptionLong":"<p>I won't lie. One of my friends and I have a dream of starting a boutiuque travel agency to Israel. As part of the idea generation process, I decided to work on some designs for our theoretical agency. It was also a good excuse to practice using Inkscape, a FOSS vector graphics program.</p><p>The ''Fernweh'' font is hand-built. This would, ideally, be used on a letter head or as a text logo. The goal was to evoke a sense of flight and ocean-like movment &mdash; two things we both associate with Israel. We also wanted it to be clean and a bit edgy.</p><p>The box logo with the outline of Israel was an early attempt at integrating the text with a visual logo. Israel has some great wineries, so I took inspiration from wine lables to create this. The outline of Israel was traced by hand. The ''israel'' font was not drawn by me.</p><p>The four circular graphics are various attempts to create a logo based on what my friend conceived. The stork is quite often associated with Israel, and he has always been struck by the beauty of the sunsets there. The stork is traced from a CCO photo and the form has been manipulated somewhat.</p>"}],"techs":[{"name":"CSS 3","type":"language","img":"/imgs/tech/html5_css3_styling.svg","height":"55","alt":"CSS 3","level":"3"},{"name":"Laravel","type":"language","img":"/imgs/tech/laravel_logo.svg","height":"55","alt":"Laravel","level":"3"},{"name":"LaTeX","type":"language","img":"/imgs/tech/LaTeX_logo.svg","height":"55","alt":"LaTeX","level":"2"},{"name":"Javascript","type":"language","img":"/imgs/tech/js_logo.svg","height":"55","alt":"Javascript","level":"2"},{"name":"R","type":"language","img":"/imgs/tech/Rlogo.svg","height":"55","alt":"R","level":"2"},{"name":"Vue","type":"language","img":"/imgs/tech/vue_logo.svg","height":"55","alt":"Vue","level":"2"},{"name":"Python","type":"language","img":"/imgs/tech/python_logo.svg","height":"55","alt":"Python","level":"1"},{"name":"PHP","type":"language","img":"/imgs/tech/php_logo.svg","height":"55","alt":"PHP","level":"3"},{"name":"HTML5","type":"language","img":"/imgs/tech/HTML5_Logo.svg","height":"55","alt":"HTML5","level":"3"},{"name":"MariaDB","type":"language","img":"/imgs/tech/mariadb_logo.svg","height":"55","alt":"MariaDB","level":"2"},{"name":"Atom","type":"program","img":"/imgs/tech/atom_logo.svg","height":"55","alt":"Atom","level":"3"},{"name":"Vim","type":"program","img":"/imgs/tech/Vimlogo.svg","height":"55","alt":"Vim","level":"1"},{"name":"Gimp","type":"program","img":"/imgs/tech/gimp_logo.png","height":"55","alt":"Gimp","level":"2"},{"name":"Git","type":"program","img":"/imgs/tech/git_logo.svg","height":"55","alt":"Git","level":"2"},{"name":"Inkscape","type":"program","img":"/imgs/tech/inkscape_logo.svg","height":"55","alt":"Inkscape","level":"2"},{"name":"MS Office","type":"program","img":"/imgs/tech/office_logo.png","height":"55","alt":"MS Office","level":"3"},{"name":"Scribus","type":"program","img":"/imgs/tech/scribus_logo.png","height":"55","alt":"Scribus","level":"2"},{"name":"DBeaver","type":"program","img":"/imgs/tech/DBeaver_logo.png","height":"55","alt":"DBeaver","level":"1"},{"name":"Arch Linux","type":"os","img":"/imgs/tech/arch_logo.svg","height":"55","alt":"Arch Linux","level":"2"},{"name":"Ubuntu Linux","type":"os","img":"/imgs/tech/ubuntu_logo.svg","height":"55","alt":"Ubuntu Linux","level":"3"},{"name":"Digital Ocean","type":"program","img":"/imgs/tech/digital_ocean_logo.svg","height":"55","alt":"Digital Ocean","level":"2"},{"name":"Linux","type":"os","img":"/imgs/tech/sit3-bw-tran.1.gif","height":"55","alt":"Linux","level":"3"}]}
+module.exports = {"projects":[{"id":1,"type":"Writing","image":"/imgs/projects/allegations_abound.png","title":"Allegations Abound","descriptionShort":"Investigative Reporting<br>3rd Place KIPA Award","url":"/docs/allegations_abound.pdf","languages":"","descriptionLong":"<p>The sudden and mysterious termination of two African-American university employees roiled the black community at Northern Kentucky University and eventually set <em>The Northerner</em> at odds with the university's administration. This article is a result of multiple weeks of investigation utilizing open records requests and interviews in an attempt to discern what actually happened. The staff continued to investigate and follow this story after publication and very nearly ended up in litigation with the university over the university's lack of transparency.</p><p>Writing this article presented myriad problems. There was considerable pushback from both the administration, who did not wish to be seen in a bad light, and the two terminated employees, who wished to present themselves only in the best light. While this is understandable, journalistic ethics required that both parties be presented in as fair and complete a way as possible. Despite repeated attempts to be swayed one way or the other by the parties involved, I am convinced that Mr. Call and I followed our ethical guidelines.<p>This article received a third place KIPA award as part of an on-going investigation into the termination of these employees and the university's conduct.</p><h4>According to the award:</h4><blockquote class='blockquote'>These reporters did a great job of following the firing of two staff members. Good use of e-mails, public records and using the African-American student retention rate. Thought the second story could have been more concise, but the subheads helped.<blockquote>"},{"id":2,"type":"Writing","image":"/imgs/projects/battle_over_open_records.png","title":"Battle Over Open Records","descriptionShort":"Press Release/Journalism<br>3rd Place KIPA Award","url":"/docs/battle_over_open_records.pdf","languages":"","descriptionLong":"<p>This article was written as part of an on-going investigation by <em>The Northerner</em> into the termination of two university employees. While it may not be the most riveting read, the article highlights an adherence to journalistic style, presentation of complex legal structures in understandable terms for the general reader, and familiarity with the Associated Press Style Guide.</p><p>This article won a third place KIPA award in 2010 as part of an on-going investigation.</p><h4>According to the award:</h4><blockquote class='blockquote'>These reporters did a great job of following the firing of two staff members. Good use of e-mails, public records and using the African-American student retention rate. Thought the second story could have been more concise, but the subheads helped.<blockquote>"},{"id":3,"type":"Design","image":"/imgs/projects/issue7.png","title":"Newspaper Layout","descriptionShort":"1st Place KIPA Award, part of a team","url":"/docs/issue7.pdf","languages":"","descriptionLong":"<p>I would love to take the credit for the designs which won first place KIPA awards; however, that would be overly presumptuous. The design and layout of any single issue involved collaboration between countless team members. In any particular issue, the team had to manage placement of ads, manage the length of articles, determine which articles would be placed where based on length and importance, which stories could be split onto multiple pages and where they should be split, availability of photos for each article, and the overall presentation and aesthetics.</p><p>Ms. Woods was our layout editor, and she was absolutely amazing. I learned so much from her about layout and InDesign. As the editor-in-chief, I worked with Ms. Woods to plan the general layout of each issue. She would then work independently and consult me when she encountered a problem.</p><h4>According to the award:</h4><blockquote class='blockquote'>VERY clean design.  Lots of white space, good type choices, good design concept for a tab publication.  Good page 3 index section, very clean, they take the opportunity to feature comics and photos and use it well.  Doubletruck spread is a nice feature, good way to feature the cover story.  Very consistent throughout, departures are well-measured, as in the case of the Halloween edition.<blockquote>"},{"id":4,"type":"Design","image":"/imgs/projects/issue8.png","title":"Newspaper Layout","descriptionShort":"1st Place KIPA Award, part of a team","url":"/docs/issue8.pdf","languages":"","descriptionLong":"<p>I would love to take the credit for the designs which won first place KIPA awards; however, that would be overly presumptuous. The design and layout of any single issue involved collaboration between countless team members. In any particular issue, the team had to manage placement of ads, manage the length of articles, determine which articles would be placed where based on length and importance, which stories could be split onto multiple pages and where they should be split, availability of photos for each article, and the overall presentation and aesthetics.</p><p>Ms. Woods was our layout editor, and she was absolutely amazing. I learned so much from her about layout and InDesign. As the editor-in-chief, I worked with Ms. Woods to plan the general layout of each issue. She would then work independently and consult me when she encountered a problem.</p><h4>According to the award:</h4><blockquote class='blockquote'>VERY clean design.  Lots of white space, good type choices, good design concept for a tab publication.  Good page 3 index section, very clean, they take the opportunity to feature comics and photos and use it well.  Doubletruck spread is a nice feature, good way to feature the cover story.  Very consistent throughout, departures are well-measured, as in the case of the Halloween edition.<blockquote>"},{"id":5,"type":"Design","image":"/imgs/projects/issue9.png","title":"Newspaper Layout","descriptionShort":"1st Place KIPA Award, part of a team","url":"/docs/issue9.pdf","languages":"","descriptionLong":"<p>I would love to take the credit for the designs which won first place KIPA awards; however, that would be overly presumptuous. The design and layout of any single issue involved collaboration between countless team members. In any particular issue, the team had to manage placement of ads, manage the length of articles, determine which articles would be placed where based on length and importance, which stories could be split onto multiple pages and where they should be split, availability of photos for each article, and the overall presentation and aesthetics.</p><p>Ms. Woods was our layout editor, and she was absolutely amazing. I learned so much from her about layout and InDesign. As the editor-in-chief, I worked with Ms. Woods to plan the general layout of each issue. She would then work independently and consult me when she encountered a problem.</p><h4>According to the award:</h4><blockquote class='blockquote'>VERY clean design.  Lots of white space, good type choices, good design concept for a tab publication.  Good page 3 index section, very clean, they take the opportunity to feature comics and photos and use it well.  Doubletruck spread is a nice feature, good way to feature the cover story.  Very consistent throughout, departures are well-measured, as in the case of the Halloween edition.<blockquote>"},{"id":6,"type":"Design","image":"/imgs/projects/komoot_project_front.png","title":"Info card: KOMOOT","descriptionShort":"Print layout/design","url":"/docs/komoot_project.pdf","languages":"Scribus","descriptionLong":"<p>Part of a job application was to ''do something special with our name.'' I decided to write an A5 info card which customers could pick up at the register in their favorite sports store.</p><p>The card was made in Scribus, a FOSS similar to Adobe InDesign. The letters and logos were pulled from svg files stored on the komoot website and modified in Inkscape to get individual letters. Inspiration for the overall design was taken from the layout of their website. Inspiration for the content was based on my own experiences as an outdoorsman.</p>"},{"id":7,"type":"Web/Code","image":"/imgs/projects/typingcatconsulting_screen.png","title":"Typing Cat Consulting","descriptionShort":"Copy editor website","url":"https://typingcatconsulting.com","languages":"PHP, Vue, Laravel, JavaScript","descriptionLong":"<p>This is a website that I built using the Laravel framework. It is also <em>my</em> website. It has a fully functioning blog, email, and information pages. Additionally, it utilizes an administration panel for uploading the blog posts, which are written in markdown, and managing the comments.</p><p>After version 1.0 in which I used almost completely custom CSS, I decided to use the recently released Bootstrap 4 CSS. The main reason was to streamline the amount of time needed to write css and to provide consistent user experience throughout. It also helped to make the website more mobile friendly, although, admittedly, Bootstrap is not a cure-all. There are still a few bugs on small resolution screens I need to address. Bootstrap also has some limitations with its sizing (w-*) utility.</p><p>I utilize very little JavaScript on the client facing portion of the site. It made sense to forego some of the web2.0 experiences since my target audience, Germany, has a higher than average number of users who disable JavaScript. Additionally, my customers are likely to be older and more security conscious, meaning they may disable JavaScript. The comments section, however, <em>is</em> built on JavaScript, namely Vue.</p><p>The website also leverages a number of additional packages to add functionality and minimize reinventing the wheel.</p>"},{"id":8,"type":"Web/Code","image":"/imgs/projects/sata_test.png","title":"Fernweh","descriptionShort":"Development website for start-up travel agency","url":"http://fernwehdev.vernhockney.space","languages":"PHP, Vue, Laravel, JavaScript","descriptionLong":"<p>A current development project for a start-up travel agency site focusing on boutique travel to Israel. Well, maybe I should say a 'starting-up.' One of my friends and I have had a dream since studying in Israel to have a small business that allows us to show others the beauty of the land and to enable us to travel there regularly. This is the tentative beginnings of that dream.</p><p>This site is still in the development stage. As such, it is not fully functional. You can, however, get some idea of my development process. Normally, I develop on my local machine or on a virtual machine. In this case, I need the website to be visible to a friend who has no technology experience. For this reason, I push a ''dev'' version to Bitbucket and then to the server; however, I still do my development on a local machine.</p>"},{"id":9,"type":"Web/Code","image":"/imgs/projects/devportfolio_screen.png","title":"Personal/Portfolio Website","descriptionShort":"This website!","url":"http://fernwehdev.vernhockney.space","languages":"PHP, Vue, Laravel, JavaScript","descriptionLong":"<p>This website is written almost entirely in Vue.js. Why? This site seemed like a perfect opportunity to create a SPA. It has a relatively flat hierarchy with virtually no additional server calls needed. The only place, in fact, that needs to call the server is the contact page, and that server call is easily handled by axios.</p><p>While Vue offers the ability to store the state in a store, I opted for the simpler JSON object which is then imported into the appropriate components. The portfolio page and proficiencies page are the only pages which are really 'data driven,' but Vue does a nice job of handling the data and making it easy to expand as the portfolio grows. I see no reason to add the additional dependencies of Vuex (Vue's centralized data storage and manipulation module) when I am not really modifying the store. However, if I should add additional functionality in the future which makes Vuex necessary, then the JSON object is easily ported into the store and a minimal amount of refactoring is required to prevent the page from breaking.</p><p>I also use the Vue-bootstrap library. This library allows me to use the Bootstrap 4 components and styles that I like while decoupling from all of the additional Bootstrap dependencies, like jQuery!</p>"},{"id":10,"type":"Design","image":"/imgs/projects/fernweh_logos_display.svg","title":"Fernweh Logos","descriptionShort":"Logo designs for start-up travel agency","url":"/imgs/projects/fernweh_logos_display.svg","languages":"Inkscape","descriptionLong":"<p>I won't lie. One of my friends and I have a dream of starting a boutique travel agency to Israel. As part of the idea generation process, I decided to work on some designs for our theoretical agency. It was also a good excuse to practice using Inkscape, a FOSS vector graphics program.</p><p>The ''Fernweh'' font is hand-built. This would, ideally, be used on a letterhead or as a text logo. The goal was to evoke a sense of flight and ocean-like movement &mdash; two things we both associate with Israel. We also wanted it to be clean and a bit edgy.</p><p>The box logo with the outline of Israel was an early attempt at integrating the text with a visual logo. Israel has some great wineries, so I took inspiration from wine labels to create this. The outline of Israel was traced by hand. The ''Israel'' font was not drawn by me.</p><p>The four circular graphics are various attempts to create a logo based on what my friend conceived. The stork is quite often associated with Israel, and he has always been struck by the beauty of the sunsets there. The stork is traced from a CCO photo, and the form has been manipulated somewhat.</p>"},{"id":11,"type":"Design","image":"/imgs/personal_logo.svg","title":"My Personal Logo","descriptionShort":"Simple meet cryptic. Hint...Morse Code will help here.","url":"/imgs/personal_logo.svg","languages":"Inkscape","descriptionLong":"<p>I have struggled for some time to design a logo for myself. I finally settled on this very simple design. Inspiration for this logo is from Morse code and the old-school computer cards. When read from left to right and top to bottom, you find the letters FVH &mdash; my initials.</p>"}],"techs":[{"name":"CSS 3","type":"language","img":"/imgs/tech/html5_css3_styling.svg","height":"55","alt":"CSS 3","level":"3"},{"name":"Laravel","type":"language","img":"/imgs/tech/laravel_logo.svg","height":"55","alt":"Laravel","level":"3"},{"name":"LaTeX","type":"language","img":"/imgs/tech/LaTeX_logo.svg","height":"55","alt":"LaTeX","level":"2"},{"name":"JavaScript","type":"language","img":"/imgs/tech/js_logo.svg","height":"55","alt":"JavaScript","level":"2"},{"name":"R","type":"language","img":"/imgs/tech/Rlogo.svg","height":"55","alt":"R","level":"2"},{"name":"Vue","type":"language","img":"/imgs/tech/vue_logo.svg","height":"55","alt":"Vue","level":"2"},{"name":"Python","type":"language","img":"/imgs/tech/python_logo.svg","height":"55","alt":"Python","level":"1"},{"name":"PHP","type":"language","img":"/imgs/tech/php_logo.svg","height":"55","alt":"PHP","level":"3"},{"name":"HTML5","type":"language","img":"/imgs/tech/HTML5_Logo.svg","height":"55","alt":"HTML5","level":"3"},{"name":"MariaDB","type":"language","img":"/imgs/tech/mariadb_logo.svg","height":"55","alt":"MariaDB","level":"2"},{"name":"Atom","type":"program","img":"/imgs/tech/atom_logo.svg","height":"55","alt":"Atom","level":"3"},{"name":"Vim","type":"program","img":"/imgs/tech/Vimlogo.svg","height":"55","alt":"Vim","level":"1"},{"name":"Gimp","type":"program","img":"/imgs/tech/gimp_logo.png","height":"55","alt":"Gimp","level":"2"},{"name":"Git","type":"program","img":"/imgs/tech/git_logo.svg","height":"55","alt":"Git","level":"2"},{"name":"Inkscape","type":"program","img":"/imgs/tech/inkscape_logo.svg","height":"55","alt":"Inkscape","level":"2"},{"name":"MS Office","type":"program","img":"/imgs/tech/office_logo.png","height":"55","alt":"MS Office","level":"3"},{"name":"Scribus","type":"program","img":"/imgs/tech/scribus_logo.png","height":"55","alt":"Scribus","level":"2"},{"name":"DBeaver","type":"program","img":"/imgs/tech/DBeaver_logo.png","height":"55","alt":"DBeaver","level":"1"},{"name":"Arch Linux","type":"os","img":"/imgs/tech/arch_logo.svg","height":"55","alt":"Arch Linux","level":"2"},{"name":"Ubuntu Linux","type":"os","img":"/imgs/tech/ubuntu_logo.svg","height":"55","alt":"Ubuntu Linux","level":"3"},{"name":"Digital Ocean","type":"program","img":"/imgs/tech/digital_ocean_logo.svg","height":"55","alt":"Digital Ocean","level":"2"},{"name":"Linux","type":"os","img":"/imgs/tech/sit3-bw-tran.1.gif","height":"55","alt":"Linux","level":"3"}]}
 
 /***/ }),
 /* 49 */
@@ -59301,11 +59301,11 @@ exports.push([module.i, "\n.content-box[data-v-10e9c534] {\n  width: -webkit-fit
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Selector__ = __webpack_require__(47);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Selector___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Selector__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__AboutBasics__ = __webpack_require__(331);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__AboutBasics__ = __webpack_require__(149);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__AboutBasics___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__AboutBasics__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AboutPhilosophy__ = __webpack_require__(321);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AboutPhilosophy__ = __webpack_require__(154);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__AboutPhilosophy___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__AboutPhilosophy__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AboutProficiencies__ = __webpack_require__(326);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AboutProficiencies__ = __webpack_require__(159);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__AboutProficiencies___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__AboutProficiencies__);
 //
 //
@@ -59450,20 +59450,499 @@ if (false) {
 }
 
 /***/ }),
-/* 149 */,
-/* 150 */,
-/* 151 */,
-/* 152 */,
-/* 153 */,
-/* 154 */,
-/* 155 */,
-/* 156 */,
-/* 157 */,
-/* 158 */,
-/* 159 */,
-/* 160 */,
-/* 161 */,
-/* 162 */,
+/* 149 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var disposed = false
+function injectStyle (ssrContext) {
+  if (disposed) return
+  __webpack_require__(150)
+}
+var normalizeComponent = __webpack_require__(9)
+/* script */
+var __vue_script__ = __webpack_require__(152)
+/* template */
+var __vue_template__ = __webpack_require__(153)
+/* template functional */
+var __vue_template_functional__ = false
+/* styles */
+var __vue_styles__ = injectStyle
+/* scopeId */
+var __vue_scopeId__ = "data-v-a9e362ea"
+/* moduleIdentifier (server only) */
+var __vue_module_identifier__ = null
+var Component = normalizeComponent(
+  __vue_script__,
+  __vue_template__,
+  __vue_template_functional__,
+  __vue_styles__,
+  __vue_scopeId__,
+  __vue_module_identifier__
+)
+Component.options.__file = "resources/assets/js/components/AboutBasics.vue"
+
+/* hot reload */
+if (false) {(function () {
+  var hotAPI = require("vue-hot-reload-api")
+  hotAPI.install(require("vue"), false)
+  if (!hotAPI.compatible) return
+  module.hot.accept()
+  if (!module.hot.data) {
+    hotAPI.createRecord("data-v-a9e362ea", Component.options)
+  } else {
+    hotAPI.reload("data-v-a9e362ea", Component.options)
+  }
+  module.hot.dispose(function (data) {
+    disposed = true
+  })
+})()}
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 150 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(151);
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var update = __webpack_require__(8)("0f80a169", content, false, {});
+// Hot Module Replacement
+if(false) {
+ // When the styles change, update the <style> tags
+ if(!content.locals) {
+   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-a9e362ea\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutBasics.vue", function() {
+     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-a9e362ea\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutBasics.vue");
+     if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
+     update(newContent);
+   });
+ }
+ // When the module is disposed, remove the <style> tags
+ module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+/* 151 */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(4)(false);
+// imports
+
+
+// module
+exports.push([module.i, "", ""]);
+
+// exports
+
+
+/***/ }),
+/* 152 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  name: 'AboutBasics'
+});
+
+/***/ }),
+/* 153 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    { staticClass: "content-box mx-auto mb-5" },
+    [
+      _c("h1", { staticClass: "text-center" }, [_vm._v("The Basics")]),
+      _vm._v(" "),
+      _c(
+        "b-row",
+        [
+          _c("b-col", { attrs: { sm: "" } }, [
+            _c("img", {
+              staticClass: "img-fluid mb-4 mb-sm-0",
+              attrs: {
+                src: "/imgs/portrait.png",
+                alt: "Vern Hockney's Portrait"
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("b-col", { attrs: { sm: "" } }, [
+            _c("ul", [
+              _c("li", [_vm._v("31 years old")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Male")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("American")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Lives in Germany")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Bachelor of Arts in Philosophy")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Master of Arts in Public Policy")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Special Skills")]),
+              _vm._v(" "),
+              _c("ul", [
+                _c("li", [_vm._v("Coding")]),
+                _vm._v(" "),
+                _c("li", [_vm._v("Writing")]),
+                _vm._v(" "),
+                _c("li", [_vm._v("Problem Solving")]),
+                _vm._v(" "),
+                _c("li", [_vm._v("Learning anything quick")])
+              ]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Loves Cats")])
+            ])
+          ])
+        ],
+        1
+      )
+    ],
+    1
+  )
+}
+var staticRenderFns = []
+render._withStripped = true
+module.exports = { render: render, staticRenderFns: staticRenderFns }
+if (false) {
+  module.hot.accept()
+  if (module.hot.data) {
+    require("vue-hot-reload-api")      .rerender("data-v-a9e362ea", module.exports)
+  }
+}
+
+/***/ }),
+/* 154 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var disposed = false
+function injectStyle (ssrContext) {
+  if (disposed) return
+  __webpack_require__(155)
+}
+var normalizeComponent = __webpack_require__(9)
+/* script */
+var __vue_script__ = __webpack_require__(157)
+/* template */
+var __vue_template__ = __webpack_require__(158)
+/* template functional */
+var __vue_template_functional__ = false
+/* styles */
+var __vue_styles__ = injectStyle
+/* scopeId */
+var __vue_scopeId__ = null
+/* moduleIdentifier (server only) */
+var __vue_module_identifier__ = null
+var Component = normalizeComponent(
+  __vue_script__,
+  __vue_template__,
+  __vue_template_functional__,
+  __vue_styles__,
+  __vue_scopeId__,
+  __vue_module_identifier__
+)
+Component.options.__file = "resources/assets/js/components/AboutPhilosophy.vue"
+
+/* hot reload */
+if (false) {(function () {
+  var hotAPI = require("vue-hot-reload-api")
+  hotAPI.install(require("vue"), false)
+  if (!hotAPI.compatible) return
+  module.hot.accept()
+  if (!module.hot.data) {
+    hotAPI.createRecord("data-v-cce88212", Component.options)
+  } else {
+    hotAPI.reload("data-v-cce88212", Component.options)
+  }
+  module.hot.dispose(function (data) {
+    disposed = true
+  })
+})()}
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 155 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(156);
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var update = __webpack_require__(8)("3c91eac5", content, false, {});
+// Hot Module Replacement
+if(false) {
+ // When the styles change, update the <style> tags
+ if(!content.locals) {
+   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-cce88212\",\"scoped\":false,\"hasInlineConfig\":true}!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutPhilosophy.vue", function() {
+     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-cce88212\",\"scoped\":false,\"hasInlineConfig\":true}!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutPhilosophy.vue");
+     if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
+     update(newContent);
+   });
+ }
+ // When the module is disposed, remove the <style> tags
+ module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+/* 156 */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(4)(false);
+// imports
+
+
+// module
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+
+// exports
+
+
+/***/ }),
+/* 157 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  name: 'AboutPhilosophy'
+});
+
+/***/ }),
+/* 158 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "content-box mx-auto" }, [
+      _c("h1", { staticClass: "text-center" }, [_vm._v("Philosophy")]),
+      _vm._v(" "),
+      _c("div", [
+        _c("p", [
+          _vm._v(
+            "\n      I believe in the simplicity. Simplicity should not be thought of negatively. In true simplicity, there is no deficiencies or insufficiency. Simplicity is the absence of obfuscation. Simplicity should be conceived of as a certain form of elegance and beauty. A simple thing may be complex, but in order for a complex thing to conform to the standards of simplicity, it must be devoid of any elements which are not strictly necessary for its function. I allow this concept to guide my daily life. When writing, speaking, or programming, I strive for simplicity.\n    "
+          )
+        ]),
+        _vm._v(" "),
+        _c("p")
+      ])
+    ])
+  }
+]
+render._withStripped = true
+module.exports = { render: render, staticRenderFns: staticRenderFns }
+if (false) {
+  module.hot.accept()
+  if (module.hot.data) {
+    require("vue-hot-reload-api")      .rerender("data-v-cce88212", module.exports)
+  }
+}
+
+/***/ }),
+/* 159 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var disposed = false
+function injectStyle (ssrContext) {
+  if (disposed) return
+  __webpack_require__(160)
+}
+var normalizeComponent = __webpack_require__(9)
+/* script */
+var __vue_script__ = __webpack_require__(162)
+/* template */
+var __vue_template__ = __webpack_require__(168)
+/* template functional */
+var __vue_template_functional__ = false
+/* styles */
+var __vue_styles__ = injectStyle
+/* scopeId */
+var __vue_scopeId__ = "data-v-7e724cbd"
+/* moduleIdentifier (server only) */
+var __vue_module_identifier__ = null
+var Component = normalizeComponent(
+  __vue_script__,
+  __vue_template__,
+  __vue_template_functional__,
+  __vue_styles__,
+  __vue_scopeId__,
+  __vue_module_identifier__
+)
+Component.options.__file = "resources/assets/js/components/AboutProficiencies.vue"
+
+/* hot reload */
+if (false) {(function () {
+  var hotAPI = require("vue-hot-reload-api")
+  hotAPI.install(require("vue"), false)
+  if (!hotAPI.compatible) return
+  module.hot.accept()
+  if (!module.hot.data) {
+    hotAPI.createRecord("data-v-7e724cbd", Component.options)
+  } else {
+    hotAPI.reload("data-v-7e724cbd", Component.options)
+  }
+  module.hot.dispose(function (data) {
+    disposed = true
+  })
+})()}
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 160 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(161);
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var update = __webpack_require__(8)("5f29bdf2", content, false, {});
+// Hot Module Replacement
+if(false) {
+ // When the styles change, update the <style> tags
+ if(!content.locals) {
+   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-7e724cbd\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutProficiencies.vue", function() {
+     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-7e724cbd\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutProficiencies.vue");
+     if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
+     update(newContent);
+   });
+ }
+ // When the module is disposed, remove the <style> tags
+ module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+/* 161 */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(4)(false);
+// imports
+
+
+// module
+exports.push([module.i, "", ""]);
+
+// exports
+
+
+/***/ }),
+/* 162 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__InfoFigures__ = __webpack_require__(163);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__InfoFigures___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__InfoFigures__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  name: 'AboutProficiencies',
+  components: {
+    InfoFigures: __WEBPACK_IMPORTED_MODULE_0__InfoFigures___default.a
+  },
+  data: function data() {
+    return {
+      categories: {
+        language: "Languages",
+        program: "Programs",
+        os: "Operating Systems"
+      }
+    };
+  }
+});
+
+/***/ }),
 /* 163 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -59589,9 +60068,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
     currentCategory: function currentCategory() {
       var _this = this;
 
-      return _.reject(this.techs, function (o) {
+      return _.orderBy(_.reject(this.techs, function (o) {
         return o.type !== _this.category;
-      });
+      }), ['level'], ['desc']);
     }
   },
 
@@ -59668,7 +60147,53 @@ if (false) {
 }
 
 /***/ }),
-/* 168 */,
+/* 168 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    { staticClass: "content-box mx-auto mb-5" },
+    [
+      _c("h1", { staticClass: "text-center" }, [_vm._v("Proficiencies")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n    When all you have is a hammer, everything looks like a nail. This is an apt description of people who work only in one area. By utilizing and learning a variety of technologies, I can leverage the appropriate tool for the job. Additionally, this makes me a versatile worker and minimizes the social cost when entering a project which is already underway.\n  "
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n    Below you will find a selection of languages, frameworks, and technologies which I use or with which I have some familiarity.\n  "
+        )
+      ]),
+      _vm._v(" "),
+      _vm._l(this.categories, function(cat, key) {
+        return [
+          _c("h4", { key: key }, [_vm._v(_vm._s(cat))]),
+          _vm._v(" "),
+          _c("info-figures", { attrs: { category: key } })
+        ]
+      })
+    ],
+    2
+  )
+}
+var staticRenderFns = []
+render._withStripped = true
+module.exports = { render: render, staticRenderFns: staticRenderFns }
+if (false) {
+  module.hot.accept()
+  if (module.hot.data) {
+    require("vue-hot-reload-api")      .rerender("data-v-7e724cbd", module.exports)
+  }
+}
+
+/***/ }),
 /* 169 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -59807,6 +60332,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vuelidate___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_vuelidate__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_vuelidate_lib_validators__ = __webpack_require__(176);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_vuelidate_lib_validators___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_vuelidate_lib_validators__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__SubmissionAlert__ = __webpack_require__(321);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__SubmissionAlert___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__SubmissionAlert__);
 //
 //
 //
@@ -59847,15 +60374,19 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+
 
 
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: 'Contact',
+  components: { SubmissionAlert: __WEBPACK_IMPORTED_MODULE_2__SubmissionAlert___default.a },
   mixins: [__WEBPACK_IMPORTED_MODULE_0_vuelidate__["validationMixin"]],
   data: function data() {
     return {
+      status: null,
       form: {
         name: '',
         email: '',
@@ -59900,10 +60431,14 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
     onSubmit: function onSubmit() {
+      var _this2 = this;
+
+      this.status = { "status": "sending", "message": "Sending Mail. Please be patient." };
       axios.post('/send-mail', this.form).then(function (response) {
-        this.form.resetForm();
+        _this2.status = response.data;
+        response.data.status !== 'error' ? _this2.resetForm() : null;
       }).catch(function (error) {
-        console.log(error);
+        console.log('error: ' + error);
       });
     }
   }
@@ -61163,6 +61698,10 @@ var render = function() {
                 "b-col",
                 { attrs: { md: "" } },
                 [
+                  this.status
+                    ? _c("submission-alert", { attrs: { status: this.status } })
+                    : _vm._e(),
+                  _vm._v(" "),
                   _c(
                     "b-form",
                     {
@@ -61268,7 +61807,7 @@ var render = function() {
                               attrs: {
                                 type: "submit",
                                 variant: "outline-primary",
-                                disabled: _vm.$v.form.$invalid
+                                disabled: _vm.$v.form.$invalid || this.status
                               }
                             },
                             [_vm._v("Send")]
@@ -61449,13 +61988,13 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 var disposed = false
 function injectStyle (ssrContext) {
   if (disposed) return
-  __webpack_require__(336)
+  __webpack_require__(202)
 }
 var normalizeComponent = __webpack_require__(9)
 /* script */
 var __vue_script__ = __webpack_require__(204)
 /* template */
-var __vue_template__ = __webpack_require__(338)
+var __vue_template__ = __webpack_require__(205)
 /* template functional */
 var __vue_template_functional__ = false
 /* styles */
@@ -61494,8 +62033,46 @@ module.exports = Component.exports
 
 
 /***/ }),
-/* 202 */,
-/* 203 */,
+/* 202 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(203);
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var update = __webpack_require__(8)("dfd547d4", content, false, {});
+// Hot Module Replacement
+if(false) {
+ // When the styles change, update the <style> tags
+ if(!content.locals) {
+   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-2394d081\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ProjectCards.vue", function() {
+     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-2394d081\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ProjectCards.vue");
+     if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
+     update(newContent);
+   });
+ }
+ // When the module is disposed, remove the <style> tags
+ module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+/* 203 */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(4)(false);
+// imports
+
+
+// module
+exports.push([module.i, "\n@media screen and (max-width: 329px) {\ndiv.card-body > button.btn.btn-primary[data-v-2394d081] {\n    margin-bottom: 0.5em;\n}\n}\n", ""]);
+
+// exports
+
+
+/***/ }),
 /* 204 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -61558,7 +62135,131 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 205 */,
+/* 205 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    [
+      _c("h1", { staticClass: "text-light mb-4 text-center text-md-left" }, [
+        _vm._v(_vm._s(_vm.type))
+      ]),
+      _vm._v(" "),
+      _c(
+        "div",
+        { staticClass: "d-flex flex-wrap justify-content-around" },
+        _vm._l(this.typedProjects, function(project) {
+          return _c(
+            "b-card",
+            {
+              key: project.id,
+              staticClass: "mb-5 mx-4 text-center",
+              staticStyle: { "max-width": "16rem" },
+              attrs: {
+                title: project.title,
+                footer: project.languages,
+                "img-src": project.image,
+                "img-alt": "Cute Kittens",
+                "img-top": ""
+              }
+            },
+            [
+              _c("p", {
+                staticClass: "card-text",
+                domProps: { innerHTML: _vm._s(project.descriptionShort) }
+              }),
+              _vm._v(" "),
+              _c(
+                "b-button",
+                {
+                  directives: [
+                    {
+                      name: "b-modal",
+                      rawName: "v-b-modal",
+                      value: _vm.modalName(project),
+                      expression: "modalName(project)"
+                    }
+                  ],
+                  attrs: { variant: "primary" }
+                },
+                [_vm._v("Learn More")]
+              ),
+              _vm._v(" "),
+              _c(
+                "b-button",
+                {
+                  attrs: { variant: "success" },
+                  on: {
+                    click: function($event) {
+                      _vm.goToProject(project)
+                    }
+                  }
+                },
+                [_vm._v("Visit Project")]
+              )
+            ],
+            1
+          )
+        })
+      ),
+      _vm._v(" "),
+      _vm._l(this.typedProjects, function(project) {
+        return _c(
+          "b-modal",
+          {
+            key: project.id,
+            attrs: {
+              id: _vm.modalName(project),
+              title: project.title,
+              "title-tag": "h2",
+              "cancel-title": "Close",
+              "ok-title": "Visit Project"
+            },
+            on: {
+              ok: function($event) {
+                if (
+                  !("button" in $event) &&
+                  _vm._k(
+                    $event.keyCode,
+                    "preventDefault",
+                    undefined,
+                    $event.key,
+                    undefined
+                  )
+                ) {
+                  return null
+                }
+                _vm.goToProject(project)
+              }
+            }
+          },
+          [
+            _c("p", {
+              staticClass: "my-4",
+              domProps: { innerHTML: _vm._s(project.descriptionLong) }
+            })
+          ]
+        )
+      })
+    ],
+    2
+  )
+}
+var staticRenderFns = []
+render._withStripped = true
+module.exports = { render: render, staticRenderFns: staticRenderFns }
+if (false) {
+  module.hot.accept()
+  if (module.hot.data) {
+    require("vue-hot-reload-api")      .rerender("data-v-2394d081", module.exports)
+  }
+}
+
+/***/ }),
 /* 206 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -72402,7 +73103,7 @@ var Component = normalizeComponent(
   __vue_scopeId__,
   __vue_module_identifier__
 )
-Component.options.__file = "resources/assets/js/components/AboutPhilosophy.vue"
+Component.options.__file = "resources/assets/js/components/SubmissionAlert.vue"
 
 /* hot reload */
 if (false) {(function () {
@@ -72411,9 +73112,9 @@ if (false) {(function () {
   if (!hotAPI.compatible) return
   module.hot.accept()
   if (!module.hot.data) {
-    hotAPI.createRecord("data-v-cce88212", Component.options)
+    hotAPI.createRecord("data-v-2dfa6089", Component.options)
   } else {
-    hotAPI.reload("data-v-cce88212", Component.options)
+    hotAPI.reload("data-v-2dfa6089", Component.options)
   }
   module.hot.dispose(function (data) {
     disposed = true
@@ -72434,13 +73135,13 @@ var content = __webpack_require__(323);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(8)("3c91eac5", content, false, {});
+var update = __webpack_require__(8)("12a07de2", content, false, {});
 // Hot Module Replacement
 if(false) {
  // When the styles change, update the <style> tags
  if(!content.locals) {
-   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-cce88212\",\"scoped\":false,\"hasInlineConfig\":true}!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutPhilosophy.vue", function() {
-     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-cce88212\",\"scoped\":false,\"hasInlineConfig\":true}!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutPhilosophy.vue");
+   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-2dfa6089\",\"scoped\":false,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./SubmissionAlert.vue", function() {
+     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-2dfa6089\",\"scoped\":false,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./SubmissionAlert.vue");
      if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
      update(newContent);
    });
@@ -72458,7 +73159,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+exports.push([module.i, "", ""]);
 
 // exports
 
@@ -72475,17 +73176,21 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'AboutPhilosophy'
+  name: "SubmissionAlert",
+  props: ['status'],
+  data: function data() {
+    return {
+      showDismissibleAlert: true
+    };
+  },
+
+  computed: {
+    classNames: function classNames() {
+      return status.status === 'error' ? 'danger' : status.status === 'sending' ? 'secondary' : 'success';
+    }
+  }
 });
 
 /***/ }),
@@ -72496,207 +73201,21 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
-}
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "content-box mx-auto" }, [
-      _c("h1", { staticClass: "text-center" }, [_vm._v("Philosophy")]),
-      _vm._v(" "),
-      _c("div", [
-        _c("p", [
-          _vm._v(
-            "\n      I believe in the simplicity. Simplicity should not be thought of negitively. In true simplicity, there is no deficiencies or insufficiencies. Simplicity is the abscence of obfuscation. Simplicity should be conceived of as a certain form of elegence and beauty. A simple thing may be complex, but in order for a complex thing to conform to the standards of simplicity, it must be devoid of any elements which are not strictly necessary for its function. I allow this concept to guide my daily life. When writing, speaking, or programming, I strive for simplicity.\n    "
-          )
-        ]),
-        _vm._v(" "),
-        _c("p")
-      ])
-    ])
-  }
-]
-render._withStripped = true
-module.exports = { render: render, staticRenderFns: staticRenderFns }
-if (false) {
-  module.hot.accept()
-  if (module.hot.data) {
-    require("vue-hot-reload-api")      .rerender("data-v-cce88212", module.exports)
-  }
-}
-
-/***/ }),
-/* 326 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var disposed = false
-function injectStyle (ssrContext) {
-  if (disposed) return
-  __webpack_require__(327)
-}
-var normalizeComponent = __webpack_require__(9)
-/* script */
-var __vue_script__ = __webpack_require__(329)
-/* template */
-var __vue_template__ = __webpack_require__(330)
-/* template functional */
-var __vue_template_functional__ = false
-/* styles */
-var __vue_styles__ = injectStyle
-/* scopeId */
-var __vue_scopeId__ = "data-v-7e724cbd"
-/* moduleIdentifier (server only) */
-var __vue_module_identifier__ = null
-var Component = normalizeComponent(
-  __vue_script__,
-  __vue_template__,
-  __vue_template_functional__,
-  __vue_styles__,
-  __vue_scopeId__,
-  __vue_module_identifier__
-)
-Component.options.__file = "resources/assets/js/components/AboutProficiencies.vue"
-
-/* hot reload */
-if (false) {(function () {
-  var hotAPI = require("vue-hot-reload-api")
-  hotAPI.install(require("vue"), false)
-  if (!hotAPI.compatible) return
-  module.hot.accept()
-  if (!module.hot.data) {
-    hotAPI.createRecord("data-v-7e724cbd", Component.options)
-  } else {
-    hotAPI.reload("data-v-7e724cbd", Component.options)
-  }
-  module.hot.dispose(function (data) {
-    disposed = true
-  })
-})()}
-
-module.exports = Component.exports
-
-
-/***/ }),
-/* 327 */
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__(328);
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var update = __webpack_require__(8)("5f29bdf2", content, false, {});
-// Hot Module Replacement
-if(false) {
- // When the styles change, update the <style> tags
- if(!content.locals) {
-   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-7e724cbd\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutProficiencies.vue", function() {
-     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-7e724cbd\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutProficiencies.vue");
-     if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
-     update(newContent);
-   });
- }
- // When the module is disposed, remove the <style> tags
- module.hot.dispose(function() { update(); });
-}
-
-/***/ }),
-/* 328 */
-/***/ (function(module, exports, __webpack_require__) {
-
-exports = module.exports = __webpack_require__(4)(false);
-// imports
-
-
-// module
-exports.push([module.i, "", ""]);
-
-// exports
-
-
-/***/ }),
-/* 329 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__InfoFigures__ = __webpack_require__(163);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__InfoFigures___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__InfoFigures__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-
-
-
-/* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'AboutProficiencies',
-  components: {
-    InfoFigures: __WEBPACK_IMPORTED_MODULE_0__InfoFigures___default.a
-  },
-  data: function data() {
-    return {
-      categories: {
-        language: "Languages",
-        program: "Programs",
-        os: "Operating Systems"
+  return _c(
+    "b-alert",
+    {
+      attrs: {
+        variant: _vm.classNames,
+        dismissible: "",
+        show: _vm.showDismissibleAlert
+      },
+      on: {
+        dismissed: function($event) {
+          _vm.showDismissibleAlert = false
+        }
       }
-    };
-  }
-});
-
-/***/ }),
-/* 330 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var render = function() {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c(
-    "div",
-    { staticClass: "content-box mx-auto" },
-    [
-      _c("h1", { staticClass: "text-center" }, [_vm._v("Proficiencies")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "\n    When all you have is a hammer, everything looks like a nail. This is an apt description of people who only work in one area. By utilizing and learning a variety of technologies I can leverage the appropriate tool for the job. Additionally, this makes\n    me a versitile worker and minimizes the social cost when starting a project which is already underway.\n  "
-        )
-      ]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "\n    Below you will find a selection of languages, frameworks, and technologies which I use or have some familiarity with.\n  "
-        )
-      ]),
-      _vm._v(" "),
-      _vm._l(this.categories, function(cat, key) {
-        return [
-          _c("h4", { key: key }, [_vm._v(_vm._s(cat))]),
-          _vm._v(" "),
-          _c("info-figures", { attrs: { category: key } })
-        ]
-      })
-    ],
-    2
+    },
+    [_vm._v("\n  " + _vm._s(_vm.status.message) + "\n")]
   )
 }
 var staticRenderFns = []
@@ -72705,376 +73224,7 @@ module.exports = { render: render, staticRenderFns: staticRenderFns }
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-    require("vue-hot-reload-api")      .rerender("data-v-7e724cbd", module.exports)
-  }
-}
-
-/***/ }),
-/* 331 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var disposed = false
-function injectStyle (ssrContext) {
-  if (disposed) return
-  __webpack_require__(332)
-}
-var normalizeComponent = __webpack_require__(9)
-/* script */
-var __vue_script__ = __webpack_require__(334)
-/* template */
-var __vue_template__ = __webpack_require__(335)
-/* template functional */
-var __vue_template_functional__ = false
-/* styles */
-var __vue_styles__ = injectStyle
-/* scopeId */
-var __vue_scopeId__ = "data-v-a9e362ea"
-/* moduleIdentifier (server only) */
-var __vue_module_identifier__ = null
-var Component = normalizeComponent(
-  __vue_script__,
-  __vue_template__,
-  __vue_template_functional__,
-  __vue_styles__,
-  __vue_scopeId__,
-  __vue_module_identifier__
-)
-Component.options.__file = "resources/assets/js/components/AboutBasics.vue"
-
-/* hot reload */
-if (false) {(function () {
-  var hotAPI = require("vue-hot-reload-api")
-  hotAPI.install(require("vue"), false)
-  if (!hotAPI.compatible) return
-  module.hot.accept()
-  if (!module.hot.data) {
-    hotAPI.createRecord("data-v-a9e362ea", Component.options)
-  } else {
-    hotAPI.reload("data-v-a9e362ea", Component.options)
-  }
-  module.hot.dispose(function (data) {
-    disposed = true
-  })
-})()}
-
-module.exports = Component.exports
-
-
-/***/ }),
-/* 332 */
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__(333);
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var update = __webpack_require__(8)("0f80a169", content, false, {});
-// Hot Module Replacement
-if(false) {
- // When the styles change, update the <style> tags
- if(!content.locals) {
-   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-a9e362ea\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutBasics.vue", function() {
-     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-a9e362ea\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./AboutBasics.vue");
-     if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
-     update(newContent);
-   });
- }
- // When the module is disposed, remove the <style> tags
- module.hot.dispose(function() { update(); });
-}
-
-/***/ }),
-/* 333 */
-/***/ (function(module, exports, __webpack_require__) {
-
-exports = module.exports = __webpack_require__(4)(false);
-// imports
-
-
-// module
-exports.push([module.i, "", ""]);
-
-// exports
-
-
-/***/ }),
-/* 334 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-
-/* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'AboutBasics'
-});
-
-/***/ }),
-/* 335 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var render = function() {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c(
-    "div",
-    { staticClass: "content-box mx-auto mb-5" },
-    [
-      _c("h1", { staticClass: "text-center" }, [_vm._v("The Basics")]),
-      _vm._v(" "),
-      _c(
-        "b-row",
-        [
-          _c("b-col", { attrs: { sm: "" } }, [
-            _c("img", {
-              staticClass: "img-fluid mb-4 mb-sm-0",
-              attrs: {
-                src: "/imgs/portrait.png",
-                alt: "Vern Hockney's Portrait"
-              }
-            })
-          ]),
-          _vm._v(" "),
-          _c("b-col", { attrs: { sm: "" } }, [
-            _c("ul", [
-              _c("li", [_vm._v("31 years old")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Male")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("American")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Lives in Germany")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Bachelor of Arts in Philosophy")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Master of Arts in Public Policy")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Special Skills")]),
-              _vm._v(" "),
-              _c("ul", [
-                _c("li", [_vm._v("Coding")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Writing")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Problem Solving")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Learning anything quick")])
-              ]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Loves Cats")])
-            ])
-          ])
-        ],
-        1
-      )
-    ],
-    1
-  )
-}
-var staticRenderFns = []
-render._withStripped = true
-module.exports = { render: render, staticRenderFns: staticRenderFns }
-if (false) {
-  module.hot.accept()
-  if (module.hot.data) {
-    require("vue-hot-reload-api")      .rerender("data-v-a9e362ea", module.exports)
-  }
-}
-
-/***/ }),
-/* 336 */
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__(337);
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var update = __webpack_require__(8)("dfd547d4", content, false, {});
-// Hot Module Replacement
-if(false) {
- // When the styles change, update the <style> tags
- if(!content.locals) {
-   module.hot.accept("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-2394d081\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ProjectCards.vue", function() {
-     var newContent = require("!!../../../../node_modules/css-loader/index.js!../../../../node_modules/vue-loader/lib/style-compiler/index.js?{\"vue\":true,\"id\":\"data-v-2394d081\",\"scoped\":true,\"hasInlineConfig\":true}!../../../../node_modules/sass-loader/lib/loader.js!../../../../node_modules/vue-loader/lib/selector.js?type=styles&index=0!./ProjectCards.vue");
-     if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
-     update(newContent);
-   });
- }
- // When the module is disposed, remove the <style> tags
- module.hot.dispose(function() { update(); });
-}
-
-/***/ }),
-/* 337 */
-/***/ (function(module, exports, __webpack_require__) {
-
-exports = module.exports = __webpack_require__(4)(false);
-// imports
-
-
-// module
-exports.push([module.i, "\n@media screen and (max-width: 329px) {\ndiv.card-body > button.btn.btn-primary[data-v-2394d081] {\n    margin-bottom: 0.5em;\n}\n}\n", ""]);
-
-// exports
-
-
-/***/ }),
-/* 338 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var render = function() {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c(
-    "div",
-    [
-      _c("h1", { staticClass: "text-light mb-4 text-center text-md-left" }, [
-        _vm._v(_vm._s(_vm.type))
-      ]),
-      _vm._v(" "),
-      _c(
-        "div",
-        { staticClass: "d-flex flex-wrap justify-content-around" },
-        _vm._l(this.typedProjects, function(project) {
-          return _c(
-            "b-card",
-            {
-              key: project.id,
-              staticClass: "mb-5 mx-4 text-center",
-              staticStyle: { "max-width": "16rem" },
-              attrs: {
-                title: project.title,
-                footer: project.languages,
-                "img-src": project.image,
-                "img-alt": "Cute Kittens",
-                "img-top": ""
-              }
-            },
-            [
-              _c("p", {
-                staticClass: "card-text",
-                domProps: { innerHTML: _vm._s(project.descriptionShort) }
-              }),
-              _vm._v(" "),
-              _c(
-                "b-button",
-                {
-                  directives: [
-                    {
-                      name: "b-modal",
-                      rawName: "v-b-modal",
-                      value: _vm.modalName(project),
-                      expression: "modalName(project)"
-                    }
-                  ],
-                  attrs: { variant: "primary" }
-                },
-                [_vm._v("Learn More")]
-              ),
-              _vm._v(" "),
-              _c(
-                "b-button",
-                {
-                  attrs: { variant: "success" },
-                  on: {
-                    click: function($event) {
-                      _vm.goToProject(project)
-                    }
-                  }
-                },
-                [_vm._v("Visit Project")]
-              )
-            ],
-            1
-          )
-        })
-      ),
-      _vm._v(" "),
-      _vm._l(this.typedProjects, function(project) {
-        return _c(
-          "b-modal",
-          {
-            key: project.id,
-            attrs: {
-              id: _vm.modalName(project),
-              title: project.title,
-              "title-tag": "h2",
-              "cancel-title": "Close",
-              "ok-title": "Visit Project"
-            },
-            on: {
-              ok: function($event) {
-                if (
-                  !("button" in $event) &&
-                  _vm._k(
-                    $event.keyCode,
-                    "preventDefault",
-                    undefined,
-                    $event.key,
-                    undefined
-                  )
-                ) {
-                  return null
-                }
-                _vm.goToProject(project)
-              }
-            }
-          },
-          [
-            _c("p", {
-              staticClass: "my-4",
-              domProps: { innerHTML: _vm._s(project.descriptionLong) }
-            })
-          ]
-        )
-      })
-    ],
-    2
-  )
-}
-var staticRenderFns = []
-render._withStripped = true
-module.exports = { render: render, staticRenderFns: staticRenderFns }
-if (false) {
-  module.hot.accept()
-  if (module.hot.data) {
-    require("vue-hot-reload-api")      .rerender("data-v-2394d081", module.exports)
+    require("vue-hot-reload-api")      .rerender("data-v-2dfa6089", module.exports)
   }
 }
 

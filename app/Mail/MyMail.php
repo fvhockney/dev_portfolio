@@ -30,8 +30,7 @@ class MyMail extends Mailable
      */
     public function build()
     {
-        $email = $this->from(app('MAIL_ADDRESS'))
-                      ->subject('New message from Portfolio')
+        $email = $this->subject('New message from Portfolio')
                       ->markdown('emails.MyContact');
 
         return $email;
