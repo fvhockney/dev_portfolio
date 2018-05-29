@@ -13,13 +13,12 @@ class SendMail extends Controller
     {
       try {
         Mail::to($request->email)->send(new TheirMail($request));
-        Mail::to(config('mail.username'))->send(new MyMail($request));
+        Mail::to(config('mail.from.address'))->send(new MyMail($request));
         return response()->json(['status'=>'success', 'message'=>'Your mail has been sent successfully']);
       } catch (\Exception $e) {
         return response()->json(['status'=>'error', 'message'=>'Something went wrong. Please try again later or contact the system administrator to report a problem.']);
       }
 
-      dd(Mail::failures());
       return response()->json(Mail::failures());
     }
 }

@@ -100,6 +100,7 @@ export default {
       this.status = {"status":"sending","message":"Sending Mail. Please be patient."}
       axios.post('/send-mail', this.form)
       .then( (response)=>{
+        console.log(response)
         this.status = response.data
         response.data.status !== 'error' ? this.resetForm() : null
       })

@@ -17,7 +17,7 @@ export default {
     classNames() {
       return status.status === 'error' ?
        'danger' : status.status === 'sending' ?
-       'secondary' :
+       'info' :
        'success'
     }
   },
