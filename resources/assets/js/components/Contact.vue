@@ -30,7 +30,7 @@
           </b-form-group>
           <div class="d-flex justify-content-start">
             <span :class="isValidatedClass" class="mr-3 align-self-center">{{isValidated}}</span>
-            <b-button type="submit" variant="outline-primary" :disabled="$v.form.$invalid || this.status">Send</b-button>
+            <b-button type="submit" variant="outline-primary" :disabled="isDisabled">Send</b-button>
           </div>
         </b-form>
       </b-col>
@@ -87,26 +87,27 @@ export default {
     },
     isValidatedClass: function() {
       return this.$v.form.$invalid ? 'text-muted' : 'text-success'
-    }
+    },
+    isDisabled: function() {
+      return this.$v.form.$invalid === true || this.status !== null
+    },
+
   },
 
   methods: {
     resetForm() {
       _( this.form )
         .forOwn( ( val, prop ) => this.form[ prop ] = '' )
+        setTimeout(() => { this.status = null }, 2005)
     },
 
     onSubmit: function() {
       this.status = {"status":"sending","message":"Sending Mail. Please be patient."}
       axios.post('/send-mail', this.form)
       .then( (response)=>{
-        console.log(response)
         this.status = response.data
         response.data.status !== 'error' ? this.resetForm() : null
       })
-      .catch((error)=>{
-        console.log('error: '+error)
-      });
     }
   },
 }

@@ -1,5 +1,5 @@
 <template>
-  <b-alert :variant="classNames" dismissible :show="showDismissibleAlert" @dismissed="showDismissibleAlert=false">
+  <b-alert :variant="classNames" dismissible :show="showDismissibleAlert" @dismissed="showDismissibleAlert=false" fade>
     {{ status.message }}
   </b-alert>
 </template>
@@ -10,17 +10,20 @@ export default {
   props: ['status'],
   data() {
     return {
-      showDismissibleAlert: true
+      showDismissibleAlert: true,
+      classNames: 'secondary'
     }
   },
-  computed: {
-    classNames() {
-      return status.status === 'error' ?
-       'danger' : status.status === 'sending' ?
-       'info' :
-       'success'
+  watch: {
+    status: function() {
+      this.classNames = this.status.status === 'error' ? 'danger' : 'success'
+      console.log(status.status);
+
+      this.showDismissibleAlert = this.status.status === 'success' ?
+      2 : true
     }
   },
+
 }
 </script>
 
