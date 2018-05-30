@@ -17,7 +17,6 @@ export default {
   watch: {
     status: function() {
       this.classNames = this.status.status === 'error' ? 'danger' : 'success'
-      console.log(status.status);
 
       this.showDismissibleAlert = this.status.status === 'success' ?
       2 : true
