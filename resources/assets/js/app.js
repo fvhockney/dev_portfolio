@@ -9,7 +9,6 @@ require('./bootstrap');
 
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import Intro from './components/Intro';
 import Container from './components/Container';
 import Home from './components/Home';
 import About from './components/About';
@@ -36,5 +35,5 @@ const router = new VueRouter({
 const app = new Vue({
     el: '#app',
     router,
-    components: {Intro, Container},
+    components: {Container},
 });
