@@ -10,8 +10,8 @@
   </div>
   <div class="social d-flex align-items-center">
     <a href="https://github.com/fvhockney"><img class="mr-5" src="/imgs/GitHub-Mark-Light-64px.png" width="auto" height="48" alt="GitHub Icon" title="See My Github Repos"></a>
-    <a href="https://codepen.io/fvhockney/"><img class="" src="imgs/CodePen-Button-Fill-White-Large.png" height="52" width="auto" alt="CodePen" title="See My CodePen"></a>
-    <a href="https://www.linkedin.com/in/fvhockney/"><img class="ml-5" src="/imgs/In-White-66px-TM.png" height="43" width="auto" alt="LinkedIn Icon" title="See My LinkedIn Profile"></a>
+    <!-- <a href="https://codepen.io/fvhockney/"><img class="" src="imgs/CodePen-Button-Fill-White-Large.png" height="52" width="auto" alt="CodePen" title="See My CodePen"></a> -->
+    <a href="https://www.linkedin.com/in/fvhockney/"><img src="/imgs/In-White-66px-TM.png" height="43" width="auto" alt="LinkedIn Icon" title="See My LinkedIn Profile"></a>
   </div>
   <div class="foot">
     <p class="text-light rotate">fvhockney@gmail.com</p>
