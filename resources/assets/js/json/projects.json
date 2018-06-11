@@ -75,7 +75,7 @@
       "image": "/imgs/projects/sata_test.png",
       "title": "Fernweh",
       "descriptionShort": "Development website for start-up travel agency",
-      "url": "http://fernwehdev.vernhockney.space",
+      "url": "http://fernweh-dev.vernhockney.space",
       "languages": "PHP, Vue, Laravel, JavaScript",
       "descriptionLong": "<p>A current development project for a start-up travel agency site focusing on boutique travel to Israel. Well, maybe I should say a 'starting-up.' One of my friends and I have had a dream since studying in Israel to have a small business that allows us to show others the beauty of the land and to enable us to travel there regularly. This is the tentative beginnings of that dream.</p><p>This site is still in the development stage. As such, it is not fully functional. You can, however, get some idea of my development process. Normally, I develop on my local machine or on a virtual machine. In this case, I need the website to be visible to a friend who has no technology experience. For this reason, I push a ''dev'' version to Bitbucket and then to the server; however, I still do my development on a local machine.</p>"
     },
@@ -85,7 +85,7 @@
       "image": "/imgs/projects/devportfolio_screen.png",
       "title": "Personal/Portfolio Website",
       "descriptionShort": "This website!",
-      "url": "http://fernwehdev.vernhockney.space",
+      "url": "http://vernhockney.space",
       "languages": "PHP, Vue, Laravel, JavaScript",
       "descriptionLong": "<p>This website is written almost entirely in Vue.js. Why? This site seemed like a perfect opportunity to create a SPA. It has a relatively flat hierarchy with virtually no additional server calls needed. The only place, in fact, that needs to call the server is the contact page, and that server call is easily handled by axios.</p><p>While Vue offers the ability to store the state in a store, I opted for the simpler JSON object which is then imported into the appropriate components. The portfolio page and proficiencies page are the only pages which are really 'data driven,' but Vue does a nice job of handling the data and making it easy to expand as the portfolio grows. I see no reason to add the additional dependencies of Vuex (Vue's centralized data storage and manipulation module) when I am not really modifying the store. However, if I should add additional functionality in the future which makes Vuex necessary, then the JSON object is easily ported into the store and a minimal amount of refactoring is required to prevent the page from breaking.</p><p>I also use the Vue-bootstrap library. This library allows me to use the Bootstrap 4 components and styles that I like while decoupling from all of the additional Bootstrap dependencies, like jQuery!</p>"
     },
