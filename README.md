@@ -1,10 +1,24 @@
-# Fred Hockney's Dev Portfolio
+# devportfolio_v2
 
-The purpose of this repository is to make public the code I have used to create <vernhockney.space>, my personal website and developer portfolio.
+## Project setup
+```
+npm install
+```
 
-### Todo
-- [ ] add SSR for SEO
-- [ ] look at replacing .svg in `<img>` tags with `<svg>` tags
-- [ ] provide instant confirmation of send mail by deffering to queue and logging all errors
-- [ ] remove unused bootstrap and bootstrap-vue files
-- [ ] replace CodePen .png with .svg
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
